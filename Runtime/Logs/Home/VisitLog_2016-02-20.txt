@@ -1,0 +1,32 @@
+
+[ 2016-02-20 16:56:20 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600100', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', category=>'2', password=>'8cd7da1981848df974d158bf571010a3', code=>'2', token=>'test', 
+ 	[页面执行时间: 2019.00毫秒]   消耗：1MB 内存
+
+[ 2016-02-20 16:56:27 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600100', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', category=>'2', password=>'54caaba98f21ccfb6f04b90f190d4886', code=>'2', token=>'test', 
+ 	[页面执行时间: 1758.93毫秒]   消耗：1MB 内存
+
+[ 2016-02-20 22:04:31 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： 
+ 	[页面执行时间: 20.35毫秒]   消耗：1.25MB 内存
+
+[ 2016-02-20 22:04:51 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： 
+ 	[页面执行时间: 10.43毫秒]   消耗：1MB 内存
+
+[ 2016-02-20 22:04:54 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： 
+ 	[页面执行时间: 6.67毫秒]   消耗：1MB 内存
+
+[ 2016-02-20 22:04:55 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： 
+ 	[页面执行时间: 8.65毫秒]   消耗：1MB 内存
+
+[ 2016-02-20 22:04:58 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： 
+ 	[页面执行时间: 6.23毫秒]   消耗：1MB 内存
+
+[ 2016-02-20 22:05:07 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： 
+ 	[页面执行时间: 8.74毫秒]   消耗：1MB 内存

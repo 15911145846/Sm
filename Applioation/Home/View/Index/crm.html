@@ -1,0 +1,121 @@
+<html>
+<meta charset="utf8" />
+<body></br>
+<form id="form1" action="<?php echo WebUrl("/Home/Index/crm")?>" method="post">
+<p>测试表单                             当前提交地址：<span id="currentActionUrl" style ="color:red">https://apicrm-develop.migang.com</span></p> 
+<input type="submit" value="提交" />
+提交地址：
+ <input type="text" name='actionUrl' id="actionUrl" value="<?php echo !empty($InputData['actionUrl'])?$InputData['actionUrl']:"https://apicrm-develop.migang.com"; ?>" size=50 x-webkit-speech/>
+ <input type="button" onclick="changeAction()" value="更改提交地址" />
+<hr/>
+<input type="hidden" name="sign" value = '<?php echo !empty($InputData['sign'])?$InputData['sign']:"471fd68f847eaccd77e0de61bf5d4b10"; ?>' />
+web_test:
+<input type="text" name="web_test" value ='<?php echo !empty($InputData['web_test'])?$InputData['web_test']:"true"; ?>' />
+crmtype:
+<input type="text" name="crmtype" value="<?php echo !empty($InputData['crmtype'])?$InputData['crmtype']:"0501"; ?>" />
+memberid:
+<input type="text" name="memberid" value="<?php echo !empty($InputData['memberid'])?$InputData['memberid']:"600100"; ?>"/>
+userid:
+<input type="text" name="userid" value="<?php echo !empty($InputData['userid'])?$InputData['userid']:"600100"; ?>"/>
+taruserid:
+<input type="text" name="taruserid" value="<?php echo !empty($InputData['taruserid'])?$InputData['taruserid']:"12107 	"; ?>"/>
+phonenum:
+<input type="text" name="phonenum" value="<?php echo !empty($InputData['phonenum'])?$InputData['phonenum']:""; ?>"/>
+name:
+<input type="text" name="name" value="<?php echo !empty($InputData['name'])?$InputData['name']:""; ?>"/>
+status:
+<input type="text" name="status" value="<?php echo !empty($InputData['status'])?$InputData['status']:"0"; ?>"/></br>
+proid:
+<input type="text" name="proid" value="<?php echo !empty($InputData['proid'])?$InputData['proid']:"2082"; ?>"/>
+S:
+<input type="text" name="S" value ='<?php echo !empty($InputData['S'])?$InputData['S']:""; ?>' />
+Page:
+<input type="text" name="page" value="<?php echo !empty($InputData['page'])?$InputData['page']:"1"; ?>"/>
+phone:
+<input type="text" name="phone" value="<?php echo !empty($InputData['phone'])?$InputData['phone']:"15911145846"; ?>"/>
+type:
+<input type="text" name="type" value="<?php echo !empty($InputData['type'])?$InputData['type']:"2"; ?>"/>
+category:
+<input type="text" name="category" value="<?php echo !empty($InputData['category'])?$InputData['category']:"2"; ?>"/>
+password:
+<input type="text" name="password" value="<?php echo !empty($InputData['password'])?md5($InputData['password']):'mg123456'; ?>"/>
+code:
+<input type="text" name="code" value="<?php echo !empty($InputData['code'])?$InputData['code']:"2"; ?>"/>
+</br>
+<!-- SubordinateId:
+<input type="text" name="SubordinateId" value ='<?php echo !empty($InputData['SubordinateId'])?$InputData['SubordinateId']:""; ?>' /> -->
+</br>
+token
+<input type="text" name="token" value="<?php echo !empty($InputData['token'])?$InputData['token']:"test"; ?>" />
+
+
+<br/>
+</form>
+<hr/>
+中文标示（可留空）:<input type="text" name="xxxx" id="paramName"  value="" />
+name:<input type="text" name="xxxx" id="paramKey"  value="" />
+value:<input type="text" name="xxxx" id="paramValue"  value="" />
+<hr/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="button" id="addParam" onclick="addParam()" value="新增参数"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="submit" onclick="document.getElementById('form1').submit()" value="提交" />
+<div>状态：<?php echo $ReturnData['0']?></br>响应：<?php dump(json_decode($ReturnData['1'],true))?></div>
+<script>
+var  colorArr = ['red','green','blue','orange','black','purple','#ABCABC','#ADD000','#999999'];
+function addParam() {
+	var Pname = document.getElementById('paramName').value;
+	var Pkey = document.getElementById('paramKey').value;
+	var Pvalue = document.getElementById('paramValue').value;
+
+	//检测重复
+	var checkingNode = document.getElementsByName(Pkey);
+	
+	if(checkingNode.length >=1 ) {
+		alert('已存在');
+		return false;
+	}
+
+	//检测空值
+	if(Pkey == '') {
+		alert('请输入post参数的name');
+		return false;
+	}
+	if(Pvalue == '') {
+		alert('请输入post参数的value');
+		return false;
+	}
+
+	var form = document.getElementsByTagName('form')[0];
+
+	var inputNode = document.createElement('input');
+	inputNode.type = 'text';
+	inputNode.name = Pkey;
+	inputNode.value = Pvalue;
+	inputNode.id = 'param_' + Pkey;
+	var nameNode = document.createElement('span');
+
+	
+	var colorIndex = Math.floor(Math.random()*10);
+	nameNode.style.color = colorArr[colorIndex];
+	nameNode.innerText = Pname || Pkey + ':';
+	form.appendChild(nameNode);
+	form.appendChild(inputNode);
+
+}
+
+var urlArrIndex = 0;
+var urlArr = ['https://apicrm-develop.migang.com'];
+var urlArrLengh = urlArr.length;
+function changeAction() {
+	urlArrIndex++;
+	if(urlArrIndex  == urlArrLengh) {
+		urlArrIndex = 0;
+	}
+	UrlForm = urlArr[urlArrIndex];
+	var current = document.getElementById('currentActionUrl');
+	var colorIndex = Math.floor(Math.random()*10);
+	current.style.color = colorArr[colorIndex];
+	current.innerHTML = UrlForm;
+	Url = document.getElementById("actionUrl");
+	Url.value=UrlForm;
+}
+</script>
+</body></html>
