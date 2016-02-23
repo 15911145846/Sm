@@ -1,4 +1,0 @@
-
-[ 2016-02-21 11:09:11 => 127.0.0.1 ] : Home/Index/crm 
- 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600100', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', category=>'2', password=>'mg123456', code=>'2', token=>'test', 
- 	[页面执行时间: 266.77毫秒]   消耗：1MB 内存
