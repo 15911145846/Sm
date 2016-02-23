@@ -1,0 +1,32 @@
+
+[ 2016-01-29 00:27:36 => 127.0.0.1 ] : Note/User/UserLogin 
+ 	InputData： 
+ 	[页面执行时间: 34.18毫秒]   消耗：1.25MB 内存
+
+[ 2016-01-29 00:27:41 => 127.0.0.1 ] : Note/User/UserLogin 
+ 	InputData： 
+ 	[页面执行时间: 9.22毫秒]   消耗：1.25MB 内存
+
+[ 2016-01-29 00:27:42 => 127.0.0.1 ] : Note/User/UserLogin 
+ 	InputData： 
+ 	[页面执行时间: 7.72毫秒]   消耗：1.25MB 内存
+
+[ 2016-01-29 00:27:47 => 127.0.0.1 ] : Note/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 46.03毫秒]   消耗：1.25MB 内存
+
+[ 2016-01-29 00:27:49 => 127.0.0.1 ] : Note/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 13.39毫秒]   消耗：1.25MB 内存
+
+[ 2016-01-29 00:27:54 => 127.0.0.1 ] : Note/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 13.06毫秒]   消耗：1.25MB 内存
+
+[ 2016-01-29 00:28:00 => 127.0.0.1 ] : Note/Index/NoteAddDo 
+ 	InputData： Noteinfo=>'111', note=>'<p><span style="font-size: 18px;">zhizhong.jia<br/><br/>1538fbf2179d8b82<br/><br/>manager-test1.migang.com<br/><br/>admin 7892a101c2b91271f4ddbc7b3f0a708a<br/><br/>https://svn.migang.com:10443/mgsite3</span><br/><br/>Jiazz980709<br/><br/>身份证号码<br/>http://www.tool7001.com/</p>', 
+ 	[页面执行时间: 9.77毫秒]   消耗：1.25MB 内存
+
+[ 2016-01-29 00:28:00 => 127.0.0.1 ] : Note/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 12.02毫秒]   消耗：1.25MB 内存

@@ -1,0 +1,118 @@
+
+[ 2016-01-26 14:42:44 => 127.0.0.1 ] : Note/User/UserLogin 
+ 	InputData： 
+ 	[页面执行时间: 25.80毫秒]   消耗：1.25MB 内存
+
+[ 2016-01-26 14:42:46 => 127.0.0.1 ] : Note/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 18.64毫秒]   消耗：1.5MB 内存
+
+[ 2016-01-26 14:43:05 => 127.0.0.1 ] : Note/Index/RecycleBin 
+ 	InputData： 
+ 	[页面执行时间: 10.57毫秒]   消耗：1.25MB 内存
+
+[ 2016-01-26 14:43:08 => 127.0.0.1 ] : Note/User/OutLogin 
+ 	InputData： 
+ 	[页面执行时间: 7.45毫秒]   消耗：1MB 内存
+
+[ 2016-01-26 14:43:08 => 127.0.0.1 ] : Note/User/UserLogin 
+ 	InputData： 
+ 	[页面执行时间: 8.60毫秒]   消耗：1.25MB 内存
+
+[ 2016-01-26 14:48:52 => 127.0.0.1 ] : Note/User/UserLogin 
+ 	InputData： 
+ 	[页面执行时间: 8.93毫秒]   消耗：1.25MB 内存
+
+[ 2016-01-26 14:48:55 => 127.0.0.1 ] : Note/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 1088.25毫秒]   消耗：1.5MB 内存
+
+[ 2016-01-26 14:49:24 => 127.0.0.1 ] : Note/Index/NoteAddDo 
+ 	InputData： Noteinfo=>'3', note=>'<p>【 jzz】* =&gt;黑名单<br/>已还 老裴　　　650<br/>已还 张艺媛 500<br/>已还 张鹏飞 2000<br/>已还 邢飞龙　　100<br/>已还 肖辉　　　200<br/>已还 菜花　　　200<br/>已还 王高峰&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2750<br/>已还 肖辉　　&nbsp;&nbsp; 3000<br/>朱嘉琪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 500<br/>*陈庚　　　&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 300<br/>老杜&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *100<br/>王楠&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *100<br/><br/>已还 wly&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3360</p><p>已还 老杜&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1200<br/>已还 王高峰&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1000<br/>已还 借满成&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2000<br/>已还 王亦喆&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 500<br/>已还 肖辉　&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 500</p><p>已还&nbsp;李建栋&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 500<br/>【借】</p><p>邢飞龙　　&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2000</p><p>朱嘉琪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;2000</p><p>老杜 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;500</p><p><br/>wly&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 100<br/>*王宇鹏&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1140&nbsp; 410<br/>*赵兄&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1400 (9号还100) +200(1月26)<br/>大哥&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 850<br/>王嘉辉&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 100<br/><br/><br/>老裴随礼&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 666<br/></p><p style="text-indent: 2em;"><br/><br/><br/>6228480918209995771&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<br/>预留验证信息 12331<br/>15911145846<br/>jia199508&nbsp;&nbsp;&nbsp; &nbsp;<br/><br/>13001246016</p>', 
+ 	[页面执行时间: 46.12毫秒]   消耗：1.25MB 内存
+
+[ 2016-01-26 14:49:25 => 127.0.0.1 ] : Note/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 991.30毫秒]   消耗：1.5MB 内存
+
+[ 2016-01-26 14:49:28 => 127.0.0.1 ] : Note/User/OutLogin 
+ 	InputData： 
+ 	[页面执行时间: 4.70毫秒]   消耗：1MB 内存
+
+[ 2016-01-26 14:49:28 => 127.0.0.1 ] : Note/User/UserLogin 
+ 	InputData： 
+ 	[页面执行时间: 9.36毫秒]   消耗：1.25MB 内存
+
+[ 2016-01-26 17:08:09 => 127.0.0.1 ] : Note/User/UserLogin 
+ 	InputData： 
+ 	[页面执行时间: 32.88毫秒]   消耗：1.25MB 内存
+
+[ 2016-01-26 20:41:23 => 127.0.0.1 ] : Note/User/UserLogin 
+ 	InputData： 
+ 	[页面执行时间: 23.25毫秒]   消耗：1.25MB 内存
+
+[ 2016-01-26 20:43:05 => 127.0.0.1 ] : Note/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 465.20毫秒]   消耗：1.25MB 内存
+
+[ 2016-01-26 20:43:08 => 127.0.0.1 ] : Note/Index/NoteAdd 
+ 	InputData： 
+ 	[页面执行时间: 20.55毫秒]   消耗：1.25MB 内存
+
+[ 2016-01-26 20:48:56 => 127.0.0.1 ] : Note/Index/NoteAddDo 
+ 	InputData： remark=>'安装系统', note=>'<h1>U盘安装完美的WIN7操作系统教程</h1><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;			来源：京博士
+ &nbsp; &nbsp; &nbsp; &nbsp;			 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;			浏览：14447961
+ &nbsp; &nbsp; &nbsp; &nbsp;			 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	|
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	更新：2013-12-31 11:08:40
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	<span class="extra">
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[<a href="http://wiki.jd.com/knowledge/edit-6699.html">编辑京博士</a>] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	<span class="extra">
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[新增京博士] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;		</p><p class="text"><br/></p><table align="center" width="750"><tbody><tr class="firstRow"><td><p><span style="font-size:18px;"><strong><img src="/upload/image/20160126/1453812503970500.jpg"/></strong></span></p></td></tr><tr><td><p style="text-align:center;"><strong><span style="font-family:microsoft yahei;font-size:32px;color:#666666;font-weight:bold;line-height:1.5em;">请使用<a title="家庭普通版" target="_blank" href="http://item.jd.com/965031.html"><strong>正版系统 &nbsp;</strong></a></span></strong></p><p style="text-align:center;"><strong><span style="font-family:microsoft yahei;font-size:32px;color:#666666;font-weight:bold;line-height:1.5em;"><a title="家庭普通版" target="_blank" href="http://item.jd.com/965031.html"><strong>http://item.jd.com/965031.html</strong></a> &nbsp;</span><br/> &nbsp;<strong><span style="font-family:microsoft yahei;font-size:32px;color:#666666;font-weight:bold;line-height:1.5em;">以保证您的电脑信息安全</span></strong></strong></p><p style="text-align:center;"><span style="font-size:24px;color:#3366ff;line-height:1.5em;">此教程适用与 win7及win8 </span></p><p>&nbsp; <span style="font-size:24px;color:#009900;line-height:1.5em;"><strong>准备工作</strong></span></p>&nbsp; &nbsp; &nbsp;<p><span style="font-size:18px;line-height:1.5em"> 首先备份或者在官网下载好您机器的驱动，否则完成后可能无法正常使用 </span></p><p><span style="font-size:18px;line-height:1.5em"> <span style="color:#6633ff;">①一个有win7或者XP系统的电脑（制作启动盘用） </span></span></p><p><span style="font-size:18px;color:#6633ff;line-height:1.5em"> ②一个4G以上的U盘 </span><span style="font-size:18px;color:#6633ff;line-height:1.5em"> </span></p><p><span style="font-size:18px;color:#6633ff;line-height:1.5em"> ③win7&amp;win8系统包（请到官网下载或问问度娘，这就不提供链接喽） </span></p><p><span style="font-size:18px;color:#6633ff;line-height:1.5em"> </span><span style="font-size:18px;color:#6633ff;line-height:1.5em">④软碟通UltraISO软件 在官网下载<a href="http://cn.ultraiso.net/xiazai.html%EF%BC%89%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0">http://cn.ultraiso.net/xiazai.html</a></span> &nbsp; &nbsp; &nbsp;</p><p><span style="font-size:18px;line-height:1.5em"><strong> 开始安装！~~~ </strong></span></p><p><span style="font-size:18px;line-height:1.5em"> 现在开始制作U盘版系统盘 &nbsp;</span></p><p><span style="font-size:18px;line-height:1.5em"> ①打开软碟通软件插上您的U盘（什么？没有U盘，点击右面传送门去买个<a target="_blank" href="http://list.jd.com/670-686-694.html">【传送门】</a>） </span></p></td></tr><tr><td><p><span style="font-size:18px;"><img src="/upload/image/20160126/1453812504798911.jpg"/></span></p></td></tr><tr><td><strong><span style="font-size:18px;line-height:1.5em;"><br/></span></strong><span style="font-size:18px;">②打开您的系统镜像文件。就是准备工作时候下载的那个。</span></td></tr><tr><td><p><span style="font-size:18px;"><img src="/upload/image/20160126/1453812504556486.jpg"/></span></p></td></tr><tr><td><p><span style="font-size:18px;line-height:1.5em;">③点击启动----写入硬盘映像 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p></td></tr><tr><td><span style="font-size:18px;"><img src="/upload/image/20160126/1453812504849607.jpg"/></span></td></tr><tr><td><p><span style="font-size:18px;line-height:1.5em;">④出来新的对话框。 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p></td></tr><tr><td><span style="font-size:18px;"><img src="/upload/image/20160126/1453812505781840.jpg"/></span></td></tr><tr><td><span style="font-size:18px;line-height:1.5em;">⑤在硬盘驱动器里选择您的U盘。 </span></td></tr><tr><td><p><span style="font-size:18px;"><img src="/upload/image/20160126/1453812506628833.jpg"/></span></p></td></tr><tr><td><span style="font-size:18px;line-height:1.5em;"> ⑥点击写入，就开始制作了！ </span></td></tr><tr><td><p><span style="font-size:18px;"><img src="/upload/image/20160126/1453812507146353.jpg"/></span></p></td></tr><tr><td><span style="font-size:18px;line-height:1.5em;"> ⑦耐心等待，可以用手机下载【<a target="_blank" href="http://sale.jd.com/act/W5hugLDc1R.html">京东电子书</a>】看看电子书，书是人类迈向成功的阶梯，电子书就是电梯哦，balabalabala..... </span></td></tr><tr><td><p><span style="font-size:18px;"><img src="/upload/image/20160126/1453812507246899.jpg"/></span></p></td></tr><tr><td><br/></td></tr><tr><td><p><span style="font-size:18px;"> ⑧成功啦，您现在拥有一个U盘版的系统盘啦。 </span><br/></p><p><span style="font-size:18px;"><img src="/upload/image/20160126/1453812508736783.jpg"/></span></p></td></tr></tbody></table><p style="clear:both;">&nbsp;</p><table><tbody><tr class="firstRow"><td><br/></td></tr></tbody></table><p>&nbsp;</p><table height="19310" width="758"><tbody><tr class="firstRow"><td><p style="color:#00c"><span style="font-size:32px;line-height:1.5em"><strong>安装系统</strong></span></p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<p><br/></p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<p><span style="font-size:18px;line-height:1.5em">我们使用联想G470为例 &nbsp;</span></p><p><span style="font-size:18px;line-height:1.5em"> 重启或者开机，出现Lenovo LOGO 时迅速按下F12，进行启动项选择 </span></p><span style="font-size:18px;line-height:1.5em"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><p><span style="font-size:18px;line-height:1.5em"> （品牌不同 启动项 的进入快捷键不同，可以在官网查找，也可以挨个尝试从 ESC F1到F12） <br/></span></p><span style="font-size:32px;line-height:1.5em"></span></td><td><br/></td></tr><tr><td><p><span style="font-size:18px;"><img src="/upload/image/20160126/1453812508656813.jpg"/></span></p></td><td><br/></td></tr><tr><td>&nbsp;<span style="font-size:18px;line-height:1.5em;">选择USB HDD的项目按下键盘上的回车</span></td><td><br/></td></tr><tr><td><p><span style="font-size:18px;"><img src="/upload/image/20160126/1453812509816681.jpg"/></span></p></td><td><br/></td></tr><tr><td><br/></td><td><br/></td></tr><tr><td><span style="font-size:18px;"><img src="/upload/image/20160126/1453812509709967.jpg"/></span></td><td><br/></td></tr><tr><td><span style="font-size:18px;line-height:1.5em;"> 开始进入WIN7安装界面了 </span></td><td><br/></td></tr><tr><td><p><span style="font-size:18px;"><img src="/upload/image/20160126/1453812509150630.jpg"/></span></p></td><td><br/></td></tr><tr><td><span style="font-size:18px;"><img src="/upload/image/20160126/1453812511356640.jpg"/></span></td><td><br/></td></tr><tr><td><span style="font-size:18px;"><img src="/upload/image/20160126/1453812511743564.jpg"/></span></td><td><br/></td></tr><tr><td><span style="font-size:18px;"><img src="/upload/image/20160126/1453812512604293.jpg"/></span></td><td><br/></td></tr><tr><td><span style="font-size:18px;"><img src="/upload/image/20160126/1453812512523359.jpg"/></span></td><td><br/></td></tr><tr><td><span style="font-size:18px;"><img src="/upload/image/20160126/1453812513356026.jpg"/></span></td><td><br/></td></tr><tr><td><span style="font-size:18px;"><img src="/upload/image/20160126/1453812513845077.jpg"/></span></td><td><br/></td></tr><tr><td><span style="font-size:18px;"><img src="/upload/image/20160126/1453812514671791.jpg"/></span></td><td><br/></td></tr><tr><td><span style="font-size:18px;line-height:1.5em;">稍等，稍等，稍等。。。。。 </span><p><span style="font-size:18px;"> 弹出以下窗口，请确认安装语言为中文，然后点击&quot;下一步&quot; </span></p></td><td><br/></td></tr><tr><td><p><span style="font-size:18px;"><img src="/upload/image/20160126/1453812514415364.jpg"/></span></p></td><td><br/></td></tr><tr><td style="word-break: break-all;"><span style="font-size:18px;"><br/></span><p><span style="font-size:18px;"> 点击开始安装 </span></p></td><td><br/></td></tr></tbody></table><p><br/></p>', 
+ 	[页面执行时间: 273.60毫秒]   消耗：1.25MB 内存
+
+[ 2016-01-26 20:48:56 => 127.0.0.1 ] : Note/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 403.97毫秒]   消耗：1.25MB 内存
+
+[ 2016-01-26 21:57:13 => 127.0.0.1 ] : Note/User/UserLogin 
+ 	InputData： 
+ 	[页面执行时间: 37.50毫秒]   消耗：1.25MB 内存
+
+[ 2016-01-26 21:58:05 => 127.0.0.1 ] : Note/User/UserLogin 
+ 	InputData： 
+ 	[页面执行时间: 11.25毫秒]   消耗：1.25MB 内存
+
+[ 2016-01-26 21:58:13 => 127.0.0.1 ] : Note/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 368.98毫秒]   消耗：1.25MB 内存
+
+[ 2016-01-26 21:58:19 => 127.0.0.1 ] : Note/Index/RecycleBinDo 
+ 	InputData： nid=>'218', S=>'R', 
+ 	[页面执行时间: 88.07毫秒]   消耗：1.25MB 内存
+
+[ 2016-01-26 21:58:19 => 127.0.0.1 ] : Note/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 207.03毫秒]   消耗：1.25MB 内存
+
+[ 2016-01-26 21:58:21 => 127.0.0.1 ] : Note/Index/RecycleBin 
+ 	InputData： 
+ 	[页面执行时间: 655.40毫秒]   消耗：1.25MB 内存
+
+[ 2016-01-26 21:58:27 => 127.0.0.1 ] : Note/Index/DeleteDo 
+ 	InputData： nid=>'218', 
+ 	[页面执行时间: 89.18毫秒]   消耗：1.25MB 内存
+
+[ 2016-01-26 21:58:27 => 127.0.0.1 ] : Note/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 161.05毫秒]   消耗：1.25MB 内存
+
+[ 2016-01-26 21:58:41 => 127.0.0.1 ] : Note/User/OutLogin 
+ 	InputData： 
+ 	[页面执行时间: 12.33毫秒]   消耗：1MB 内存
+
+[ 2016-01-26 21:58:41 => 127.0.0.1 ] : Note/User/UserLogin 
+ 	InputData： 
+ 	[页面执行时间: 10.23毫秒]   消耗：1.25MB 内存

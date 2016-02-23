@@ -1,0 +1,76 @@
+
+[ 2016-02-15 09:38:19 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600129', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', token=>'test', 
+ 	[页面执行时间: 1337.44毫秒]   消耗：1MB 内存
+
+[ 2016-02-15 16:39:13 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： 
+ 	[页面执行时间: 11.52毫秒]   消耗：1MB 内存
+
+[ 2016-02-15 16:39:19 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600134', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', token=>'test', 
+ 	[页面执行时间: 243.72毫秒]   消耗：1MB 内存
+
+[ 2016-02-15 16:39:22 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600134', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', token=>'test', 
+ 	[页面执行时间: 208.49毫秒]   消耗：1MB 内存
+
+[ 2016-02-15 16:39:49 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600127', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', token=>'test', 
+ 	[页面执行时间: 623.92毫秒]   消耗：1MB 内存
+
+[ 2016-02-15 16:39:59 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600127', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', token=>'test', 
+ 	[页面执行时间: 633.85毫秒]   消耗：1MB 内存
+
+[ 2016-02-15 16:40:16 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600128', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', token=>'test', 
+ 	[页面执行时间: 617.49毫秒]   消耗：1MB 内存
+
+[ 2016-02-15 16:41:48 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600128', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', token=>'test', 
+ 	[页面执行时间: 628.15毫秒]   消耗：1MB 内存
+
+[ 2016-02-15 16:42:34 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600128', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', token=>'test', 
+ 	[页面执行时间: 602.85毫秒]   消耗：1MB 内存
+
+[ 2016-02-15 16:47:01 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600128', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', token=>'test', 
+ 	[页面执行时间: 1319.74毫秒]   消耗：1MB 内存
+
+[ 2016-02-15 16:47:04 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600128', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', token=>'test', 
+ 	[页面执行时间: 226.37毫秒]   消耗：1MB 内存
+
+[ 2016-02-15 16:47:10 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600127', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', token=>'test', 
+ 	[页面执行时间: 226.21毫秒]   消耗：1MB 内存
+
+[ 2016-02-15 16:47:38 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600127', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', token=>'test', 
+ 	[页面执行时间: 653.78毫秒]   消耗：1MB 内存
+
+[ 2016-02-15 16:48:29 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600127', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', token=>'test', 
+ 	[页面执行时间: 595.42毫秒]   消耗：1MB 内存
+
+[ 2016-02-15 16:49:08 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600127', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', token=>'test', 
+ 	[页面执行时间: 649.60毫秒]   消耗：1MB 内存
+
+[ 2016-02-15 16:51:43 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600127', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', token=>'test', 
+ 	[页面执行时间: 258.49毫秒]   消耗：1MB 内存
+
+[ 2016-02-15 16:52:28 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600127', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', token=>'test', 
+ 	[页面执行时间: 664.35毫秒]   消耗：1MB 内存
+
+[ 2016-02-15 16:53:09 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600127', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', token=>'test', 
+ 	[页面执行时间: 617.33毫秒]   消耗：1MB 内存
+
+[ 2016-02-15 16:53:46 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600127', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', token=>'test', 
+ 	[页面执行时间: 640.23毫秒]   消耗：1MB 内存

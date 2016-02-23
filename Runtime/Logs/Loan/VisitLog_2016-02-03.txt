@@ -1,0 +1,256 @@
+
+ 	[页面执行时间: 99.77毫秒]   消耗：1MB 内存
+
+ 	[页面执行时间: 23.65毫秒]   消耗：1MB 内存
+
+ 	[页面执行时间: 7.96毫秒]   消耗：1MB 内存
+
+ 	[页面执行时间: 12.40毫秒]   消耗：1MB 内存
+
+ 	[页面执行时间: 6.80毫秒]   消耗：1MB 内存
+
+ 	[页面执行时间: 6.68毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 13:57:04 => 172.16.0.109 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 28.71毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 13:57:26 => 172.16.0.76 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 12.96毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:01:44 => 172.16.0.109 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 487.87毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:02:33 => 172.16.0.109 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 51.43毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:03:34 => 172.16.0.109 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 69.77毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:04:02 => 172.16.0.109 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 50.96毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:05:40 => 172.16.0.109 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 30024.71毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:07:44 => 172.16.0.109 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 197.85毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:07:46 => 172.16.0.109 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 142.04毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:07:53 => 172.16.0.109 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 183.98毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:07:53 => 172.16.0.109 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 30046.02毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:08:12 => 172.16.0.109 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 455.37毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:08:14 => 172.16.0.109 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 14.96毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:08:44 => 172.16.0.109 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 15.94毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:08:57 => 172.16.0.109 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 16.01毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:09:22 => 172.16.0.109 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 108.92毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:10:03 => 127.0.0.1 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 101.38毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:10:24 => 127.0.0.1 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 37.48毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:10:44 => 127.0.0.1 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 432.08毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:10:56 => 127.0.0.1 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 65.24毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:11:03 => 127.0.0.1 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 28.94毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:11:12 => 127.0.0.1 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 30.75毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:11:15 => 127.0.0.1 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 106.97毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:12:28 => 127.0.0.1 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 30025.71毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:13:25 => 127.0.0.1 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 10.56毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:13:29 => 127.0.0.1 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 30023.25毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:13:48 => 127.0.0.1 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 22.02毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:14:19 => 127.0.0.1 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 8.59毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:14:26 => 127.0.0.1 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 7.54毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:23:44 => 127.0.0.1 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 10.21毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:23:46 => 127.0.0.1 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 5.63毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:23:48 => 127.0.0.1 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 5.65毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:23:51 => 127.0.0.1 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 6.20毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 14:24:04 => 127.0.0.1 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 6.49毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 21:17:31 => 127.0.0.1 ] : Loan/Index/index 
+ 	InputData： 
+ 	[页面执行时间: 23.54毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 21:17:40 => 127.0.0.1 ] : Loan/User/index 
+ 	InputData： 
+ 	[页面执行时间: 26.69毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 21:17:43 => 127.0.0.1 ] : Loan/User/index 
+ 	InputData： 
+ 	[页面执行时间: 5.97毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 22:35:39 => 127.0.0.1 ] : Loan/User/index 
+ 	InputData： 
+ 	[页面执行时间: 16.65毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 23:10:22 => 127.0.0.1 ] : Loan/User/index 
+ 	InputData： 
+ 	[页面执行时间: 8.29毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 23:21:39 => 127.0.0.1 ] : Loan/User/index 
+ 	InputData： 
+ 	[页面执行时间: 22.69毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 23:21:44 => 127.0.0.1 ] : Loan/User/index 
+ 	InputData： 
+ 	[页面执行时间: 6.18毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 23:22:05 => 127.0.0.1 ] : Loan/User/index 
+ 	InputData： 
+ 	[页面执行时间: 8.78毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 23:22:48 => 127.0.0.1 ] : Loan/User/UserLoginDo 
+ 	InputData： UserName=>'admin', Password=>'jia980709', 
+ 	[页面执行时间: 31.10毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 23:25:11 => 127.0.0.1 ] : Loan/User/UserLoginDo 
+ 	InputData： UserName=>'admin', Password=>'jia980709', 
+ 	[页面执行时间: 21.36毫秒]   消耗：1.25MB 内存
+
+[ 2016-02-03 23:25:29 => 127.0.0.1 ] : Loan/User/UserLoginDo 
+ 	InputData： UserName=>'admin', Password=>'jia980709', 
+ 	[页面执行时间: 16.79毫秒]   消耗：1.25MB 内存
+
+[ 2016-02-03 23:27:26 => 127.0.0.1 ] : Loan/User/UserLoginDo 
+ 	InputData： UserName=>'admin', Password=>'jia980709', 
+ 	[页面执行时间: 17.44毫秒]   消耗：1.25MB 内存
+
+[ 2016-02-03 23:27:29 => 127.0.0.1 ] : Loan/User/index 
+ 	InputData： 
+ 	[页面执行时间: 31.41毫秒]   消耗：1.25MB 内存
+
+[ 2016-02-03 23:28:02 => 127.0.0.1 ] : Loan/User/index 
+ 	InputData： 
+ 	[页面执行时间: 5.43毫秒]   消耗：1MB 内存
+
+[ 2016-02-03 23:28:04 => 127.0.0.1 ] : Loan/User/UserLoginDo 
+ 	InputData： UserName=>'admin', Password=>'jia980709', 
+ 	[页面执行时间: 23.79毫秒]   消耗：1.25MB 内存
+
+[ 2016-02-03 23:29:06 => 127.0.0.1 ] : Loan/User/UserLoginDo 
+ 	InputData： UserName=>'admin', Password=>'jia980709', 
+ 	[页面执行时间: 22.03毫秒]   消耗：1.25MB 内存
+
+[ 2016-02-03 23:29:10 => 127.0.0.1 ] : Loan/User/UserLoginDo 
+ 	InputData： UserName=>'admin', Password=>'jia980709', 
+ 	[页面执行时间: 8.47毫秒]   消耗：1.25MB 内存
+
+[ 2016-02-03 23:30:06 => 127.0.0.1 ] : Loan/User/UserLoginDo 
+ 	InputData： UserName=>'admin', Password=>'jia980709', 
+ 	[页面执行时间: 18.34毫秒]   消耗：1.25MB 内存
+
+[ 2016-02-03 23:30:09 => 127.0.0.1 ] : Loan/User/UserLoginDo 
+ 	InputData： UserName=>'admin', Password=>'jia980709', 
+ 	[页面执行时间: 8.45毫秒]   消耗：1.25MB 内存
+
+[ 2016-02-03 23:30:15 => 127.0.0.1 ] : Loan/User/UserLoginDo 
+ 	InputData： UserName=>'admin', Password=>'jia980709', 
+ 	[页面执行时间: 8.25毫秒]   消耗：1.25MB 内存
+
+[ 2016-02-03 23:30:46 => 127.0.0.1 ] : Loan/User/UserLoginDo 
+ 	InputData： UserName=>'admin', Password=>'jia980709', 
+ 	[页面执行时间: 9.11毫秒]   消耗：1.25MB 内存
+
+[ 2016-02-03 23:30:49 => 127.0.0.1 ] : Loan/User/UserLoginDo 
+ 	InputData： UserName=>'admin', Password=>'jia980709', 
+ 	[页面执行时间: 8.53毫秒]   消耗：1.25MB 内存
+
+[ 2016-02-03 23:31:06 => 127.0.0.1 ] : Loan/User/UserLoginDo 
+ 	InputData： UserName=>'admin', Password=>'jia980709', 
+ 	[页面执行时间: 10.09毫秒]   消耗：1.25MB 内存
+
+ 	[页面执行时间: 25.98毫秒]   消耗：1.25MB 内存
+
+ 	[页面执行时间: 24.44毫秒]   消耗：1MB 内存
+
+ 	[页面执行时间: 6.09毫秒]   消耗：1MB 内存
+
+ 	[页面执行时间: 23.10毫秒]   消耗：1.25MB 内存
+
+ 	[页面执行时间: 7.53毫秒]   消耗：1.25MB 内存
+
+ 	[页面执行时间: 5.68毫秒]   消耗：1.25MB 内存
+
+[ 2016-02-03 23:36:15 => 127.0.0.1 ] : Loan/User/UserLoginDo 
+ 	InputData： UserName=>'admin', Password=>'jia980709', 
+ 	[页面执行时间: 32.29毫秒]   消耗：1.25MB 内存

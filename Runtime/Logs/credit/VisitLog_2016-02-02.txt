@@ -1,0 +1,36 @@
+
+[ 2016-02-02 10:39:41 => 127.0.0.1 ] : credit/Index/FormYz 
+ 	InputData： 
+ 	[页面执行时间: 23.64毫秒]   消耗：1MB 内存
+
+[ 2016-02-02 11:14:59 => 172.16.0.109 ] : credit/Index/FormYzDo 
+ 	InputData： 
+ 	[页面执行时间: 30008.18毫秒]   消耗：1MB 内存
+
+[ 2016-02-02 11:15:34 => 172.16.0.109 ] : credit/Index/FormYzDo 
+ 	InputData： 
+ 	[页面执行时间: 30006.83毫秒]   消耗：1MB 内存
+
+[ 2016-02-02 11:15:34 => 172.16.0.109 ] : credit/Index/FormYzDo 
+ 	InputData： 
+ 	[页面执行时间: 177.86毫秒]   消耗：1MB 内存
+
+[ 2016-02-02 11:15:36 => 172.16.0.109 ] : credit/Index/FormYzDo 
+ 	InputData： 
+ 	[页面执行时间: 143.27毫秒]   消耗：1MB 内存
+
+[ 2016-02-02 11:15:46 => 172.16.0.109 ] : credit/Index/FormYzDo 
+ 	InputData： 
+ 	[页面执行时间: 30024.87毫秒]   消耗：1MB 内存
+
+[ 2016-02-02 11:15:48 => 172.16.0.109 ] : credit/Index/FormYzDo 
+ 	InputData： 
+ 	[页面执行时间: 160.99毫秒]   消耗：1MB 内存
+
+[ 2016-02-02 11:15:52 => 172.16.0.109 ] : credit/Index/FormYzDo 
+ 	InputData： 
+ 	[页面执行时间: 143.18毫秒]   消耗：1MB 内存
+
+[ 2016-02-02 11:16:51 => 172.16.0.109 ] : credit/Index/FormYzDo 
+ 	InputData： 
+ 	[页面执行时间: 30007.40毫秒]   消耗：1MB 内存
