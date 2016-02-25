@@ -1,0 +1,559 @@
+[Mon Feb 22 19:06:34.947579 2016] [:error] [pid 17178] [client 127.0.0.1:61061] PHP Fatal error:  Class 'Loan\\Controller\\BaseController' not found in /WebServer/Documents/Sm/Applioation/Loan/Controller/IndexController.class.php on line 8
+[Mon Feb 22 19:06:34.947736 2016] [:error] [pid 17178] [client 127.0.0.1:61061] PHP Stack trace:
+[Mon Feb 22 19:06:34.947784 2016] [:error] [pid 17178] [client 127.0.0.1:61061] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Mon Feb 22 19:06:34.947804 2016] [:error] [pid 17178] [client 127.0.0.1:61061] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Mon Feb 22 19:06:34.947813 2016] [:error] [pid 17178] [client 127.0.0.1:61061] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Mon Feb 22 19:06:34.947820 2016] [:error] [pid 17178] [client 127.0.0.1:61061] PHP   4. controller() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:102
+[Mon Feb 22 19:06:34.947826 2016] [:error] [pid 17178] [client 127.0.0.1:61061] PHP   5. include_once() /WebServer/Documents/Sm/Core/Library/Common/functions.php:9
+[Mon Feb 22 19:07:20.151268 2016] [:error] [pid 19273] [client 127.0.0.1:61073] PHP Fatal error:  Class 'Applioation\\Core\\Library\\Controller\\Kernel' not found in /WebServer/Documents/Sm/Applioation/Loan/Controller/BaseController.class.php on line 8
+[Mon Feb 22 19:07:20.151565 2016] [:error] [pid 19273] [client 127.0.0.1:61073] PHP Stack trace:
+[Mon Feb 22 19:07:20.151609 2016] [:error] [pid 19273] [client 127.0.0.1:61073] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Mon Feb 22 19:07:20.151633 2016] [:error] [pid 19273] [client 127.0.0.1:61073] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Mon Feb 22 19:07:20.151642 2016] [:error] [pid 19273] [client 127.0.0.1:61073] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Mon Feb 22 19:07:20.151650 2016] [:error] [pid 19273] [client 127.0.0.1:61073] PHP   4. controller() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:102
+[Mon Feb 22 19:07:20.151656 2016] [:error] [pid 19273] [client 127.0.0.1:61073] PHP   5. include_once() /WebServer/Documents/Sm/Core/Library/Common/functions.php:9
+[Mon Feb 22 19:07:20.151663 2016] [:error] [pid 19273] [client 127.0.0.1:61073] PHP   6. spl_autoload_call() /WebServer/Documents/Sm/Core/Library/Common/functions.php:8
+[Mon Feb 22 19:07:20.151671 2016] [:error] [pid 19273] [client 127.0.0.1:61073] PHP   7. Core\\Lib\\System\\System_Core::autoload() /WebServer/Documents/Sm/Core/Library/Common/functions.php:0
+[Mon Feb 22 19:07:20.151678 2016] [:error] [pid 19273] [client 127.0.0.1:61073] PHP   8. include_once() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:149
+[Tue Feb 23 13:40:47.328307 2016] [:error] [pid 24493] [client 127.0.0.1:50158] PHP Parse error:  syntax error, unexpected ''web_test'' (T_CONSTANT_ENCAPSED_STRING) in /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php on line 11
+[Tue Feb 23 13:40:47.328422 2016] [:error] [pid 24493] [client 127.0.0.1:50158] PHP Stack trace:
+[Tue Feb 23 13:40:47.328434 2016] [:error] [pid 24493] [client 127.0.0.1:50158] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Tue Feb 23 13:40:47.328442 2016] [:error] [pid 24493] [client 127.0.0.1:50158] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Tue Feb 23 13:40:47.328450 2016] [:error] [pid 24493] [client 127.0.0.1:50158] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Tue Feb 23 13:40:47.328456 2016] [:error] [pid 24493] [client 127.0.0.1:50158] PHP   4. controller() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:102
+[Tue Feb 23 16:21:33.697329 2016] [:error] [pid 24209] [client 127.0.0.1:54350] PHP Fatal error:  Call to undefined function Applioation\\Crm\\Controller\\passport_key() in /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php on line 15
+[Tue Feb 23 16:21:33.697506 2016] [:error] [pid 24209] [client 127.0.0.1:54350] PHP Stack trace:
+[Tue Feb 23 16:21:33.697541 2016] [:error] [pid 24209] [client 127.0.0.1:54350] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Tue Feb 23 16:21:33.697587 2016] [:error] [pid 24209] [client 127.0.0.1:54350] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Tue Feb 23 16:21:33.697598 2016] [:error] [pid 24209] [client 127.0.0.1:54350] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Tue Feb 23 16:21:33.697606 2016] [:error] [pid 24209] [client 127.0.0.1:54350] PHP   4. Applioation\\Crm\\Controller\\IndexController->jiami() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Tue Feb 23 20:07:13.185030 2016] [:error] [pid 24494] [client 127.0.0.1:57769] PHP Fatal error:  Class 'Core\\Lib\\System\\Route' not found in /WebServer/Documents/Sm/Core/Lib/System/System.class.php on line 92, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:07:13.200251 2016] [:error] [pid 24494] [client 127.0.0.1:57769] PHP Stack trace:, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:07:13.200325 2016] [:error] [pid 24494] [client 127.0.0.1:57769] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:07:13.200353 2016] [:error] [pid 24494] [client 127.0.0.1:57769] PHP   2. include() /WebServer/Documents/Sm/index.php:11, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:07:13.200370 2016] [:error] [pid 24494] [client 127.0.0.1:57769] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:07:18.843839 2016] [:error] [pid 24493] [client 127.0.0.1:57781] PHP Fatal error:  Class 'Core\\Lib\\System\\Route' not found in /WebServer/Documents/Sm/Core/Lib/System/System.class.php on line 92, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:07:18.843940 2016] [:error] [pid 24493] [client 127.0.0.1:57781] PHP Stack trace:, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:07:18.843971 2016] [:error] [pid 24493] [client 127.0.0.1:57781] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:07:18.843989 2016] [:error] [pid 24493] [client 127.0.0.1:57781] PHP   2. include() /WebServer/Documents/Sm/index.php:11, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:07:18.843998 2016] [:error] [pid 24493] [client 127.0.0.1:57781] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:08:42.258475 2016] [:error] [pid 24365] [client 127.0.0.1:57785] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /WebServer/Documents/Sm/Applioation/Home/Controller/UserController.class.php on line 53, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:08:42.258645 2016] [:error] [pid 24365] [client 127.0.0.1:57785] PHP Stack trace:, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:08:42.258699 2016] [:error] [pid 24365] [client 127.0.0.1:57785] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:08:42.258732 2016] [:error] [pid 24365] [client 127.0.0.1:57785] PHP   2. include() /WebServer/Documents/Sm/index.php:11, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:08:42.258750 2016] [:error] [pid 24365] [client 127.0.0.1:57785] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:08:42.258764 2016] [:error] [pid 24365] [client 127.0.0.1:57785] PHP   4. controller() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:102, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:08:42.258776 2016] [:error] [pid 24365] [client 127.0.0.1:57785] PHP   5. include_once() /WebServer/Documents/Sm/Core/Library/Common/functions.php:9, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:08:42.258789 2016] [:error] [pid 24365] [client 127.0.0.1:57785] PHP   6. spl_autoload_call() /WebServer/Documents/Sm/Core/Library/Common/functions.php:9, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:08:42.258815 2016] [:error] [pid 24365] [client 127.0.0.1:57785] PHP   7. Core\\Lib\\System\\System_Core::autoload() /WebServer/Documents/Sm/Core/Library/Common/functions.php:0, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:09:02.751804 2016] [:error] [pid 24396] [client 127.0.0.1:57794] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /WebServer/Documents/Sm/Applioation/Home/Controller/UserController.class.php on line 53, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:09:02.752049 2016] [:error] [pid 24396] [client 127.0.0.1:57794] PHP Stack trace:, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:09:02.752095 2016] [:error] [pid 24396] [client 127.0.0.1:57794] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:09:02.752115 2016] [:error] [pid 24396] [client 127.0.0.1:57794] PHP   2. include() /WebServer/Documents/Sm/index.php:11, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:09:02.752129 2016] [:error] [pid 24396] [client 127.0.0.1:57794] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:09:02.752140 2016] [:error] [pid 24396] [client 127.0.0.1:57794] PHP   4. controller() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:102, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:09:02.752150 2016] [:error] [pid 24396] [client 127.0.0.1:57794] PHP   5. include_once() /WebServer/Documents/Sm/Core/Library/Common/functions.php:9, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:09:02.752161 2016] [:error] [pid 24396] [client 127.0.0.1:57794] PHP   6. spl_autoload_call() /WebServer/Documents/Sm/Core/Library/Common/functions.php:9, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:09:02.752171 2016] [:error] [pid 24396] [client 127.0.0.1:57794] PHP   7. Core\\Lib\\System\\System_Core::autoload() /WebServer/Documents/Sm/Core/Library/Common/functions.php:0, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:34:52.983447 2016] [:error] [pid 24499] [client 127.0.0.1:58072] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /WebServer/Documents/Sm/Applioation/Home/Controller/UserController.class.php on line 53, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:34:52.983718 2016] [:error] [pid 24499] [client 127.0.0.1:58072] PHP Stack trace:, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:34:52.983780 2016] [:error] [pid 24499] [client 127.0.0.1:58072] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:34:52.983796 2016] [:error] [pid 24499] [client 127.0.0.1:58072] PHP   2. include() /WebServer/Documents/Sm/index.php:11, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:34:52.983804 2016] [:error] [pid 24499] [client 127.0.0.1:58072] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:34:52.983811 2016] [:error] [pid 24499] [client 127.0.0.1:58072] PHP   4. controller() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:102, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:34:52.983817 2016] [:error] [pid 24499] [client 127.0.0.1:58072] PHP   5. include_once() /WebServer/Documents/Sm/Core/Library/Common/functions.php:9, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:34:52.983823 2016] [:error] [pid 24499] [client 127.0.0.1:58072] PHP   6. spl_autoload_call() /WebServer/Documents/Sm/Core/Library/Common/functions.php:9, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:34:52.983830 2016] [:error] [pid 24499] [client 127.0.0.1:58072] PHP   7. Core\\Lib\\System\\System_Core::autoload() /WebServer/Documents/Sm/Core/Library/Common/functions.php:0, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:35:30.860197 2016] [:error] [pid 24207] [client 127.0.0.1:58079] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /WebServer/Documents/Sm/Applioation/Home/Controller/UserController.class.php on line 53, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:35:30.860307 2016] [:error] [pid 24207] [client 127.0.0.1:58079] PHP Stack trace:, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:35:30.860345 2016] [:error] [pid 24207] [client 127.0.0.1:58079] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:35:30.860362 2016] [:error] [pid 24207] [client 127.0.0.1:58079] PHP   2. include() /WebServer/Documents/Sm/index.php:11, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:35:30.860370 2016] [:error] [pid 24207] [client 127.0.0.1:58079] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:35:30.860377 2016] [:error] [pid 24207] [client 127.0.0.1:58079] PHP   4. controller() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:102, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:35:30.860382 2016] [:error] [pid 24207] [client 127.0.0.1:58079] PHP   5. include_once() /WebServer/Documents/Sm/Core/Library/Common/functions.php:9, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:35:30.860388 2016] [:error] [pid 24207] [client 127.0.0.1:58079] PHP   6. spl_autoload_call() /WebServer/Documents/Sm/Core/Library/Common/functions.php:9, referer: http://test.com/Home/Index/crm
+[Tue Feb 23 20:35:30.860396 2016] [:error] [pid 24207] [client 127.0.0.1:58079] PHP   7. Core\\Lib\\System\\System_Core::autoload() /WebServer/Documents/Sm/Core/Library/Common/functions.php:0, referer: http://test.com/Home/Index/crm
+[Wed Feb 24 14:38:09.117006 2016] [:error] [pid 29610] [client 127.0.0.1:63845] PHP Fatal error:  Class 'Applioation\\Crm\\Controller\\ExcelHandle' not found in /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php on line 13
+[Wed Feb 24 14:38:09.117406 2016] [:error] [pid 29610] [client 127.0.0.1:63845] PHP Stack trace:
+[Wed Feb 24 14:38:09.117466 2016] [:error] [pid 29610] [client 127.0.0.1:63845] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 14:38:09.117484 2016] [:error] [pid 29610] [client 127.0.0.1:63845] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 14:38:09.117494 2016] [:error] [pid 29610] [client 127.0.0.1:63845] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 14:38:09.117502 2016] [:error] [pid 29610] [client 127.0.0.1:63845] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 14:41:10.211445 2016] [:error] [pid 29600] [client 127.0.0.1:64133] PHP Fatal error:  Class 'Applioation\\Crm\\Controller\\ExcelHandle' not found in /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php on line 13
+[Wed Feb 24 14:41:10.211701 2016] [:error] [pid 29600] [client 127.0.0.1:64133] PHP Stack trace:
+[Wed Feb 24 14:41:10.211779 2016] [:error] [pid 29600] [client 127.0.0.1:64133] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 14:41:10.211799 2016] [:error] [pid 29600] [client 127.0.0.1:64133] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 14:41:10.211810 2016] [:error] [pid 29600] [client 127.0.0.1:64133] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 14:41:10.211818 2016] [:error] [pid 29600] [client 127.0.0.1:64133] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 14:48:34.302661 2016] [:error] [pid 29612] [client 127.0.0.1:64152] PHP Fatal error:  Call to undefined function Core\\Library\\Controller\\Kernel() in /WebServer/Documents/Sm/Core/Sm.php on line 16
+[Wed Feb 24 14:48:34.307156 2016] [:error] [pid 29612] [client 127.0.0.1:64152] PHP Stack trace:
+[Wed Feb 24 14:48:34.307295 2016] [:error] [pid 29612] [client 127.0.0.1:64152] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 14:48:34.307322 2016] [:error] [pid 29612] [client 127.0.0.1:64152] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 14:48:52.679135 2016] [:error] [pid 29609] [client 127.0.0.1:64154] PHP Fatal error:  Class 'Core\\Library\\Controller\\Kernel' not found in /WebServer/Documents/Sm/Core/Sm.php on line 16
+[Wed Feb 24 14:48:52.679264 2016] [:error] [pid 29609] [client 127.0.0.1:64154] PHP Stack trace:
+[Wed Feb 24 14:48:52.679314 2016] [:error] [pid 29609] [client 127.0.0.1:64154] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 14:48:52.679323 2016] [:error] [pid 29609] [client 127.0.0.1:64154] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 14:49:07.178987 2016] [:error] [pid 29613] [client 127.0.0.1:64157] PHP Fatal error:  Class 'Core\\Library\\Controller\\Kernel' not found in /WebServer/Documents/Sm/Core/Sm.php on line 16
+[Wed Feb 24 14:49:07.179115 2016] [:error] [pid 29613] [client 127.0.0.1:64157] PHP Stack trace:
+[Wed Feb 24 14:49:07.179149 2016] [:error] [pid 29613] [client 127.0.0.1:64157] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 14:49:07.179157 2016] [:error] [pid 29613] [client 127.0.0.1:64157] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 14:49:16.532953 2016] [:error] [pid 29599] [client 127.0.0.1:64158] PHP Fatal error:  Class 'Core\\Library\\Controller\\Kernel' not found in /WebServer/Documents/Sm/Core/Sm.php on line 16
+[Wed Feb 24 14:49:16.538773 2016] [:error] [pid 29599] [client 127.0.0.1:64158] PHP Stack trace:
+[Wed Feb 24 14:49:16.538872 2016] [:error] [pid 29599] [client 127.0.0.1:64158] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 14:49:16.538905 2016] [:error] [pid 29599] [client 127.0.0.1:64158] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 14:50:02.242354 2016] [:error] [pid 29606] [client 127.0.0.1:64160] PHP Fatal error:  Class 'Core\\Library\\Controller\\Kernel' not found in /WebServer/Documents/Sm/Core/Sm.php on line 16
+[Wed Feb 24 14:50:02.247213 2016] [:error] [pid 29606] [client 127.0.0.1:64160] PHP Stack trace:
+[Wed Feb 24 14:50:02.247313 2016] [:error] [pid 29606] [client 127.0.0.1:64160] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 14:50:02.247369 2016] [:error] [pid 29606] [client 127.0.0.1:64160] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 14:50:12.422752 2016] [:error] [pid 29608] [client 127.0.0.1:64162] PHP Fatal error:  Class 'Core\\Library\\Controller\\Kernel' not found in /WebServer/Documents/Sm/Core/Sm.php on line 16
+[Wed Feb 24 14:50:12.422912 2016] [:error] [pid 29608] [client 127.0.0.1:64162] PHP Stack trace:
+[Wed Feb 24 14:50:12.422969 2016] [:error] [pid 29608] [client 127.0.0.1:64162] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 14:50:12.422995 2016] [:error] [pid 29608] [client 127.0.0.1:64162] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 14:50:42.418535 2016] [:error] [pid 29611] [client 127.0.0.1:64166] PHP Fatal error:  Class 'Core\\Library\\Controller\\Kernel' not found in /WebServer/Documents/Sm/Core/Sm.php on line 16
+[Wed Feb 24 14:50:42.418650 2016] [:error] [pid 29611] [client 127.0.0.1:64166] PHP Stack trace:
+[Wed Feb 24 14:50:42.418695 2016] [:error] [pid 29611] [client 127.0.0.1:64166] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 14:50:42.418744 2016] [:error] [pid 29611] [client 127.0.0.1:64166] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 14:50:48.188171 2016] [:error] [pid 29610] [client 127.0.0.1:64167] PHP Fatal error:  Class 'Core\\Library\\Controller\\Kernel' not found in /WebServer/Documents/Sm/Core/Sm.php on line 16
+[Wed Feb 24 14:50:48.188254 2016] [:error] [pid 29610] [client 127.0.0.1:64167] PHP Stack trace:
+[Wed Feb 24 14:50:48.188275 2016] [:error] [pid 29610] [client 127.0.0.1:64167] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 14:50:48.188288 2016] [:error] [pid 29610] [client 127.0.0.1:64167] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 14:50:51.045683 2016] [:error] [pid 29610] [client 127.0.0.1:64167] PHP Fatal error:  Class 'Core\\Library\\Controller\\Kernel' not found in /WebServer/Documents/Sm/Core/Sm.php on line 16
+[Wed Feb 24 14:50:51.045774 2016] [:error] [pid 29610] [client 127.0.0.1:64167] PHP Stack trace:
+[Wed Feb 24 14:50:51.045785 2016] [:error] [pid 29610] [client 127.0.0.1:64167] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 14:50:51.045793 2016] [:error] [pid 29610] [client 127.0.0.1:64167] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 14:51:09.007921 2016] [:error] [pid 29600] [client 127.0.0.1:64170] PHP Fatal error:  Class 'Core\\Lib\\System\\System_Core' not found in /WebServer/Documents/Sm/Core/Sm.php on line 16
+[Wed Feb 24 14:51:09.013662 2016] [:error] [pid 29600] [client 127.0.0.1:64170] PHP Stack trace:
+[Wed Feb 24 14:51:09.013710 2016] [:error] [pid 29600] [client 127.0.0.1:64170] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 14:51:09.013724 2016] [:error] [pid 29600] [client 127.0.0.1:64170] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 14:51:40.650340 2016] [:error] [pid 29612] [client 127.0.0.1:64175] PHP Fatal error:  Cannot instantiate abstract class Core\\Library\\Controller\\Kernel in /WebServer/Documents/Sm/Core/Sm.php on line 17
+[Wed Feb 24 14:51:40.650652 2016] [:error] [pid 29612] [client 127.0.0.1:64175] PHP Stack trace:
+[Wed Feb 24 14:51:40.650697 2016] [:error] [pid 29612] [client 127.0.0.1:64175] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 14:51:40.650707 2016] [:error] [pid 29612] [client 127.0.0.1:64175] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 14:52:10.311325 2016] [:error] [pid 29609] [client 127.0.0.1:64176] PHP Fatal error:  Class 'Applioation\\Crm\\Controller\\ExcelHandle' not found in /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php on line 13
+[Wed Feb 24 14:52:10.311443 2016] [:error] [pid 29609] [client 127.0.0.1:64176] PHP Stack trace:
+[Wed Feb 24 14:52:10.311500 2016] [:error] [pid 29609] [client 127.0.0.1:64176] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 14:52:10.311526 2016] [:error] [pid 29609] [client 127.0.0.1:64176] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 14:52:10.311539 2016] [:error] [pid 29609] [client 127.0.0.1:64176] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:23
+[Wed Feb 24 14:52:10.311551 2016] [:error] [pid 29609] [client 127.0.0.1:64176] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 14:53:33.227394 2016] [:error] [pid 29613] [client 127.0.0.1:64185] PHP Fatal error:  Class 'Applioation\\Crm\\Controller\\ExcelHandle' not found in /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php on line 13
+[Wed Feb 24 14:53:33.227499 2016] [:error] [pid 29613] [client 127.0.0.1:64185] PHP Stack trace:
+[Wed Feb 24 14:53:33.227526 2016] [:error] [pid 29613] [client 127.0.0.1:64185] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 14:53:33.227547 2016] [:error] [pid 29613] [client 127.0.0.1:64185] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 14:53:33.227556 2016] [:error] [pid 29613] [client 127.0.0.1:64185] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:23
+[Wed Feb 24 14:53:33.227564 2016] [:error] [pid 29613] [client 127.0.0.1:64185] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 14:54:48.237695 2016] [:error] [pid 29606] [client 127.0.0.1:64191] PHP Fatal error:  Class 'Applioation\\Crm\\Controller\\ExcelHandle' not found in /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php on line 13
+[Wed Feb 24 14:54:48.238402 2016] [:error] [pid 29606] [client 127.0.0.1:64191] PHP Stack trace:
+[Wed Feb 24 14:54:48.238448 2016] [:error] [pid 29606] [client 127.0.0.1:64191] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 14:54:48.238476 2016] [:error] [pid 29606] [client 127.0.0.1:64191] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 14:54:48.238490 2016] [:error] [pid 29606] [client 127.0.0.1:64191] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:23
+[Wed Feb 24 14:54:48.238503 2016] [:error] [pid 29606] [client 127.0.0.1:64191] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 15:03:54.304193 2016] [:error] [pid 29599] [client 127.0.0.1:64224] PHP Fatal error:  Access to undeclared static property: Applioation\\Crm\\Controller\\IndexController::$instance__ in /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php on line 16
+[Wed Feb 24 15:03:54.304620 2016] [:error] [pid 29599] [client 127.0.0.1:64224] PHP Stack trace:
+[Wed Feb 24 15:03:54.304757 2016] [:error] [pid 29599] [client 127.0.0.1:64224] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 15:03:54.304823 2016] [:error] [pid 29599] [client 127.0.0.1:64224] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 15:03:54.304872 2016] [:error] [pid 29599] [client 127.0.0.1:64224] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 15:03:54.304884 2016] [:error] [pid 29599] [client 127.0.0.1:64224] PHP   4. Applioation\\Crm\\Controller\\IndexController->_init() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:105
+[Wed Feb 24 15:03:54.304897 2016] [:error] [pid 29599] [client 127.0.0.1:64224] PHP   5. Applioation\\Crm\\Controller\\IndexController::getInstance() /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php:11
+[Wed Feb 24 15:06:12.230618 2016] [:error] [pid 29606] [client 127.0.0.1:64359] PHP Fatal error:  Class 'Applioation\\Crm\\Controller\\ReflectionClass' not found in /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php on line 15
+[Wed Feb 24 15:06:12.230838 2016] [:error] [pid 29606] [client 127.0.0.1:64359] PHP Stack trace:
+[Wed Feb 24 15:06:12.230875 2016] [:error] [pid 29606] [client 127.0.0.1:64359] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 15:06:12.230894 2016] [:error] [pid 29606] [client 127.0.0.1:64359] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 15:06:12.230902 2016] [:error] [pid 29606] [client 127.0.0.1:64359] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 15:06:12.230910 2016] [:error] [pid 29606] [client 127.0.0.1:64359] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 15:09:12.315098 2016] [:error] [pid 29611] [client 127.0.0.1:64397] PHP Fatal error:  Class 'Applioation\\Crm\\Controller\\ReflectionClass' not found in /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php on line 15
+[Wed Feb 24 15:09:12.315326 2016] [:error] [pid 29611] [client 127.0.0.1:64397] PHP Stack trace:
+[Wed Feb 24 15:09:12.315381 2016] [:error] [pid 29611] [client 127.0.0.1:64397] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 15:09:12.315401 2016] [:error] [pid 29611] [client 127.0.0.1:64397] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 15:09:12.315413 2016] [:error] [pid 29611] [client 127.0.0.1:64397] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 15:09:12.315426 2016] [:error] [pid 29611] [client 127.0.0.1:64397] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 15:10:17.877034 2016] [:error] [pid 29600] [client 127.0.0.1:64406] PHP Warning:  Uncaught exception 'Whoops\\Exception\\ErrorException' with message 'require(/WebServer/Documents/Sm/Core/Applioation/Crm/Controller/ReflectionClass.php): failed to open stream: No such file or directory' in /WebServer/Documents/Sm/Core/Library/Controller/Loader.class.php:14\nStack trace:\n#0 /WebServer/Documents/Sm/Core/Library/Controller/Loader.class.php(14): Whoops\\Run->handleError(2, 'require(/WebSer...', '/WebServer/Docu...', 14, Array)\n#1 /WebServer/Documents/Sm/Core/Library/Controller/Loader.class.php(14): Core\\Library\\Controller\\Loader::includeClass()\n#2 [internal function]: Core\\Library\\Controller\\Loader::includeClass('Applioation\\\\Crm...')\n#3 /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php(15): spl_autoload_call('Applioation\\\\Crm...')\n#4 /WebServer/Documents/Sm/Core/Lib/System/System.class.php(107): Applioation\\Crm\\Controller\\IndexController->index()\n#5 /WebServer/Documents/Sm/Core/Sm.php(18): Core\\Lib\\System\\System_Core::start()\n#6 /WebServer/Documents/Sm/index.php(11): inc in /WebServer/Documents/Sm/Core/Library/Controller/Loader.class.php on line 14
+[Wed Feb 24 15:10:17.877295 2016] [:error] [pid 29600] [client 127.0.0.1:64406] PHP Stack trace:
+[Wed Feb 24 15:10:17.877311 2016] [:error] [pid 29600] [client 127.0.0.1:64406] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 15:10:17.877325 2016] [:error] [pid 29600] [client 127.0.0.1:64406] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 15:10:17.877334 2016] [:error] [pid 29600] [client 127.0.0.1:64406] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 15:10:17.877342 2016] [:error] [pid 29600] [client 127.0.0.1:64406] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 15:10:17.877349 2016] [:error] [pid 29600] [client 127.0.0.1:64406] PHP   5. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:15
+[Wed Feb 24 15:10:17.877356 2016] [:error] [pid 29600] [client 127.0.0.1:64406] PHP   6. Core\\Library\\Controller\\Loader::includeClass() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:0
+[Wed Feb 24 15:10:17.877572 2016] [:error] [pid 29600] [client 127.0.0.1:64406] PHP Fatal error:  Core\\Library\\Controller\\Loader::includeClass(): Failed opening required '/WebServer/Documents/Sm/Core/Applioation/Crm/Controller/ReflectionClass.php' (include_path='.:/usr/local/php5/lib/php') in /WebServer/Documents/Sm/Core/Library/Controller/Loader.class.php on line 14
+[Wed Feb 24 15:10:17.877578 2016] [:error] [pid 29600] [client 127.0.0.1:64406] PHP Stack trace:
+[Wed Feb 24 15:10:17.877584 2016] [:error] [pid 29600] [client 127.0.0.1:64406] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 15:10:17.877594 2016] [:error] [pid 29600] [client 127.0.0.1:64406] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 15:10:17.877601 2016] [:error] [pid 29600] [client 127.0.0.1:64406] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 15:10:17.877608 2016] [:error] [pid 29600] [client 127.0.0.1:64406] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 15:10:17.877615 2016] [:error] [pid 29600] [client 127.0.0.1:64406] PHP   5. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:15
+[Wed Feb 24 15:10:17.877622 2016] [:error] [pid 29600] [client 127.0.0.1:64406] PHP   6. Core\\Library\\Controller\\Loader::includeClass() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:0
+[Wed Feb 24 15:23:22.227141 2016] [:error] [pid 29609] [client 127.0.0.1:64630] PHP Warning:  Uncaught exception 'Whoops\\Exception\\ErrorException' with message 'require_once(./PHPExcel.php): failed to open stream: No such file or directory' in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php:8\nStack trace:\n#0 /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php(8): Whoops\\Run->handleError(2, 'require_once(./...', '/WebServer/Docu...', 8, Array)\n#1 /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php(8): require_once()\n#2 /WebServer/Documents/Sm/Core/Library/Controller/Loader.class.php(36): require('/WebServer/Docu...')\n#3 [internal function]: Core\\Library\\Controller\\Loader::includeClass('Applioation\\\\Crm...')\n#4 /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php(14): spl_autoload_call('Applioation\\\\Crm...')\n#5 /WebServer/Documents/Sm/Core/Lib/System/System.class.php(107): Applioation\\Crm\\Controller\\IndexController->index()\n#6 /WebServer/Documents/Sm/Core/Sm.php(18): Core\\Lib\\System\\System_Core::start()\n#7 /WebServer/Docum in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php on line 8
+[Wed Feb 24 15:23:22.227397 2016] [:error] [pid 29609] [client 127.0.0.1:64630] PHP Stack trace:
+[Wed Feb 24 15:23:22.227414 2016] [:error] [pid 29609] [client 127.0.0.1:64630] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 15:23:22.227422 2016] [:error] [pid 29609] [client 127.0.0.1:64630] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 15:23:22.227429 2016] [:error] [pid 29609] [client 127.0.0.1:64630] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 15:23:22.227438 2016] [:error] [pid 29609] [client 127.0.0.1:64630] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 15:23:22.227444 2016] [:error] [pid 29609] [client 127.0.0.1:64630] PHP   5. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:14
+[Wed Feb 24 15:23:22.227452 2016] [:error] [pid 29609] [client 127.0.0.1:64630] PHP   6. Core\\Library\\Controller\\Loader::includeClass() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:0
+[Wed Feb 24 15:23:22.227458 2016] [:error] [pid 29609] [client 127.0.0.1:64630] PHP   7. require() /WebServer/Documents/Sm/Core/Library/Controller/Loader.class.php:36
+[Wed Feb 24 15:23:22.227677 2016] [:error] [pid 29609] [client 127.0.0.1:64630] PHP Fatal error:  main(): Failed opening required './PHPExcel.php' (include_path='.:/usr/local/php5/lib/php') in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php on line 8
+[Wed Feb 24 15:23:22.227682 2016] [:error] [pid 29609] [client 127.0.0.1:64630] PHP Stack trace:
+[Wed Feb 24 15:23:22.227689 2016] [:error] [pid 29609] [client 127.0.0.1:64630] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 15:23:22.227695 2016] [:error] [pid 29609] [client 127.0.0.1:64630] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 15:23:22.227702 2016] [:error] [pid 29609] [client 127.0.0.1:64630] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 15:23:22.227709 2016] [:error] [pid 29609] [client 127.0.0.1:64630] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 15:23:22.227715 2016] [:error] [pid 29609] [client 127.0.0.1:64630] PHP   5. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:14
+[Wed Feb 24 15:23:22.227723 2016] [:error] [pid 29609] [client 127.0.0.1:64630] PHP   6. Core\\Library\\Controller\\Loader::includeClass() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:0
+[Wed Feb 24 15:23:22.227729 2016] [:error] [pid 29609] [client 127.0.0.1:64630] PHP   7. require() /WebServer/Documents/Sm/Core/Library/Controller/Loader.class.php:36
+[Wed Feb 24 15:37:17.981866 2016] [:error] [pid 29613] [client 127.0.0.1:64792] PHP Fatal error:  Class 'Core\\Library\\Controller\\Vendor' not found in /WebServer/Documents/Sm/Core/Library/Controller/Kernel.class.php on line 8
+[Wed Feb 24 15:37:17.982160 2016] [:error] [pid 29613] [client 127.0.0.1:64792] PHP Stack trace:
+[Wed Feb 24 15:37:17.982246 2016] [:error] [pid 29613] [client 127.0.0.1:64792] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 15:37:17.982267 2016] [:error] [pid 29613] [client 127.0.0.1:64792] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 15:37:17.982276 2016] [:error] [pid 29613] [client 127.0.0.1:64792] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 15:37:17.982291 2016] [:error] [pid 29613] [client 127.0.0.1:64792] PHP   4. controller() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:102
+[Wed Feb 24 15:37:17.982298 2016] [:error] [pid 29613] [client 127.0.0.1:64792] PHP   5. include_once() /WebServer/Documents/Sm/Core/Library/Common/functions.php:9
+[Wed Feb 24 15:37:17.982305 2016] [:error] [pid 29613] [client 127.0.0.1:64792] PHP   6. spl_autoload_call() /WebServer/Documents/Sm/Core/Library/Common/functions.php:8
+[Wed Feb 24 15:37:17.982312 2016] [:error] [pid 29613] [client 127.0.0.1:64792] PHP   7. Core\\Lib\\System\\System_Core::autoload() /WebServer/Documents/Sm/Core/Library/Common/functions.php:0
+[Wed Feb 24 15:37:17.982318 2016] [:error] [pid 29613] [client 127.0.0.1:64792] PHP   8. include_once() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:149
+[Wed Feb 24 15:37:17.982324 2016] [:error] [pid 29613] [client 127.0.0.1:64792] PHP   9. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:8
+[Wed Feb 24 15:37:17.982331 2016] [:error] [pid 29613] [client 127.0.0.1:64792] PHP  10. Core\\Lib\\System\\System_Core::autoload() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:0
+[Wed Feb 24 15:37:17.982337 2016] [:error] [pid 29613] [client 127.0.0.1:64792] PHP  11. include_once() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:149
+[Wed Feb 24 15:37:44.740318 2016] [:error] [pid 29599] [client 127.0.0.1:64804] PHP Fatal error:  Class 'Core\\Library\\Controller\\Vendor' not found in /WebServer/Documents/Sm/Core/Library/Controller/Kernel.class.php on line 8
+[Wed Feb 24 15:37:44.740615 2016] [:error] [pid 29599] [client 127.0.0.1:64804] PHP Stack trace:
+[Wed Feb 24 15:37:44.740644 2016] [:error] [pid 29599] [client 127.0.0.1:64804] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 15:37:44.740658 2016] [:error] [pid 29599] [client 127.0.0.1:64804] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 15:37:44.740666 2016] [:error] [pid 29599] [client 127.0.0.1:64804] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 15:37:44.740673 2016] [:error] [pid 29599] [client 127.0.0.1:64804] PHP   4. controller() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:102
+[Wed Feb 24 15:37:44.740679 2016] [:error] [pid 29599] [client 127.0.0.1:64804] PHP   5. include_once() /WebServer/Documents/Sm/Core/Library/Common/functions.php:9
+[Wed Feb 24 15:37:44.740685 2016] [:error] [pid 29599] [client 127.0.0.1:64804] PHP   6. spl_autoload_call() /WebServer/Documents/Sm/Core/Library/Common/functions.php:8
+[Wed Feb 24 15:37:44.740693 2016] [:error] [pid 29599] [client 127.0.0.1:64804] PHP   7. Core\\Lib\\System\\System_Core::autoload() /WebServer/Documents/Sm/Core/Library/Common/functions.php:0
+[Wed Feb 24 15:37:44.740699 2016] [:error] [pid 29599] [client 127.0.0.1:64804] PHP   8. include_once() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:149
+[Wed Feb 24 15:37:44.740705 2016] [:error] [pid 29599] [client 127.0.0.1:64804] PHP   9. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:8
+[Wed Feb 24 15:37:44.740712 2016] [:error] [pid 29599] [client 127.0.0.1:64804] PHP  10. Core\\Lib\\System\\System_Core::autoload() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:0
+[Wed Feb 24 15:37:44.740718 2016] [:error] [pid 29599] [client 127.0.0.1:64804] PHP  11. include_once() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:149
+[Wed Feb 24 15:38:00.166220 2016] [:error] [pid 29606] [client 127.0.0.1:64805] PHP Warning:  Uncaught exception 'Whoops\\Exception\\ErrorException' with message 'require_once(/WebServer/Documents/Sm/Core/PHPExcel.php): failed to open stream: No such file or directory' in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php:8\nStack trace:\n#0 /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php(8): Whoops\\Run->handleError(2, 'require_once(/W...', '/WebServer/Docu...', 8, Array)\n#1 /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php(8): require_once()\n#2 /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php(36): require('/WebServer/Docu...')\n#3 [internal function]: Core\\Lib\\System\\Vendor::includeClass('Applioation\\\\Crm...')\n#4 /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php(14): spl_autoload_call('Applioation\\\\Crm...')\n#5 /WebServer/Documents/Sm/Core/Lib/System/System.class.php(107): Applioation\\Crm\\Controller\\IndexController->index()\n#6 /WebServer/Documents/Sm/Core/Sm.php(18): Core\\Lib\\System\\System_Core::start()\n#7 /WebS in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php on line 8
+[Wed Feb 24 15:38:00.167015 2016] [:error] [pid 29606] [client 127.0.0.1:64805] PHP Stack trace:
+[Wed Feb 24 15:38:00.167071 2016] [:error] [pid 29606] [client 127.0.0.1:64805] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 15:38:00.167092 2016] [:error] [pid 29606] [client 127.0.0.1:64805] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 15:38:00.167100 2016] [:error] [pid 29606] [client 127.0.0.1:64805] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 15:38:00.167107 2016] [:error] [pid 29606] [client 127.0.0.1:64805] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 15:38:00.167114 2016] [:error] [pid 29606] [client 127.0.0.1:64805] PHP   5. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:14
+[Wed Feb 24 15:38:00.167121 2016] [:error] [pid 29606] [client 127.0.0.1:64805] PHP   6. Core\\Lib\\System\\Vendor::includeClass() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:0
+[Wed Feb 24 15:38:00.167126 2016] [:error] [pid 29606] [client 127.0.0.1:64805] PHP   7. require() /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php:36
+[Wed Feb 24 15:38:00.167346 2016] [:error] [pid 29606] [client 127.0.0.1:64805] PHP Fatal error:  main(): Failed opening required '/WebServer/Documents/Sm/Core/PHPExcel.php' (include_path='.:/usr/local/php5/lib/php') in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php on line 8
+[Wed Feb 24 15:38:00.167352 2016] [:error] [pid 29606] [client 127.0.0.1:64805] PHP Stack trace:
+[Wed Feb 24 15:38:00.167405 2016] [:error] [pid 29606] [client 127.0.0.1:64805] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 15:38:00.167421 2016] [:error] [pid 29606] [client 127.0.0.1:64805] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 15:38:00.167429 2016] [:error] [pid 29606] [client 127.0.0.1:64805] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 15:38:00.167437 2016] [:error] [pid 29606] [client 127.0.0.1:64805] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 15:38:00.167444 2016] [:error] [pid 29606] [client 127.0.0.1:64805] PHP   5. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:14
+[Wed Feb 24 15:38:00.167451 2016] [:error] [pid 29606] [client 127.0.0.1:64805] PHP   6. Core\\Lib\\System\\Vendor::includeClass() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:0
+[Wed Feb 24 15:38:00.167458 2016] [:error] [pid 29606] [client 127.0.0.1:64805] PHP   7. require() /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php:36
+[Wed Feb 24 15:40:35.608096 2016] [:error] [pid 29608] [client 127.0.0.1:64824] PHP Warning:  Uncaught exception 'Whoops\\Exception\\ErrorException' with message 'require(/WebServer/Documents/Sm/Core/Lib/Expansion/ORG/PHPExcel/Shared/String.class.php): failed to open stream: No such file or directory' in /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php:38\nStack trace:\n#0 /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php(38): Whoops\\Run->handleError(2, 'require(/WebSer...', '/WebServer/Docu...', 38, Array)\n#1 /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php(38): Core\\Lib\\System\\Vendor::includeClass()\n#2 [internal function]: Core\\Lib\\System\\Vendor::includeClass('PHPExcel_Shared...')\n#3 /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Autoloader.php(36): spl_autoload_call('PHPExcel_Shared...')\n#4 /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel.php(33): require('/WebServer/Docu...')\n#5 /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php(8): require_once('/WebServer/Docu...')\n#6 /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php(36): require('/W in /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php on line 38
+[Wed Feb 24 15:40:35.608327 2016] [:error] [pid 29608] [client 127.0.0.1:64824] PHP Stack trace:
+[Wed Feb 24 15:40:35.608351 2016] [:error] [pid 29608] [client 127.0.0.1:64824] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 15:40:35.608366 2016] [:error] [pid 29608] [client 127.0.0.1:64824] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 15:40:35.608375 2016] [:error] [pid 29608] [client 127.0.0.1:64824] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 15:40:35.608384 2016] [:error] [pid 29608] [client 127.0.0.1:64824] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 15:40:35.608392 2016] [:error] [pid 29608] [client 127.0.0.1:64824] PHP   5. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:14
+[Wed Feb 24 15:40:35.608401 2016] [:error] [pid 29608] [client 127.0.0.1:64824] PHP   6. Core\\Lib\\System\\Vendor::includeClass() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:0
+[Wed Feb 24 15:40:35.608407 2016] [:error] [pid 29608] [client 127.0.0.1:64824] PHP   7. require() /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php:36
+[Wed Feb 24 15:40:35.608414 2016] [:error] [pid 29608] [client 127.0.0.1:64824] PHP   8. require_once() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php:8
+[Wed Feb 24 15:40:35.608420 2016] [:error] [pid 29608] [client 127.0.0.1:64824] PHP   9. require() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel.php:33
+[Wed Feb 24 15:40:35.608427 2016] [:error] [pid 29608] [client 127.0.0.1:64824] PHP  10. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel.php:36
+[Wed Feb 24 15:40:35.608436 2016] [:error] [pid 29608] [client 127.0.0.1:64824] PHP  11. Core\\Lib\\System\\Vendor::includeClass() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel.php:0
+[Wed Feb 24 15:40:35.608700 2016] [:error] [pid 29608] [client 127.0.0.1:64824] PHP Fatal error:  Core\\Lib\\System\\Vendor::includeClass(): Failed opening required '/WebServer/Documents/Sm/Core/Lib/Expansion/ORG/PHPExcel/Shared/String.class.php' (include_path='.:/usr/local/php5/lib/php') in /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php on line 38
+[Wed Feb 24 15:40:35.608707 2016] [:error] [pid 29608] [client 127.0.0.1:64824] PHP Stack trace:
+[Wed Feb 24 15:40:35.608715 2016] [:error] [pid 29608] [client 127.0.0.1:64824] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 15:40:35.608722 2016] [:error] [pid 29608] [client 127.0.0.1:64824] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 15:40:35.608730 2016] [:error] [pid 29608] [client 127.0.0.1:64824] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 15:40:35.608739 2016] [:error] [pid 29608] [client 127.0.0.1:64824] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 15:40:35.608746 2016] [:error] [pid 29608] [client 127.0.0.1:64824] PHP   5. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:14
+[Wed Feb 24 15:40:35.608754 2016] [:error] [pid 29608] [client 127.0.0.1:64824] PHP   6. Core\\Lib\\System\\Vendor::includeClass() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:0
+[Wed Feb 24 15:40:35.608767 2016] [:error] [pid 29608] [client 127.0.0.1:64824] PHP   7. require() /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php:36
+[Wed Feb 24 15:40:35.608774 2016] [:error] [pid 29608] [client 127.0.0.1:64824] PHP   8. require_once() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php:8
+[Wed Feb 24 15:40:35.608781 2016] [:error] [pid 29608] [client 127.0.0.1:64824] PHP   9. require() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel.php:33
+[Wed Feb 24 15:40:35.608788 2016] [:error] [pid 29608] [client 127.0.0.1:64824] PHP  10. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel.php:36
+[Wed Feb 24 15:40:35.608796 2016] [:error] [pid 29608] [client 127.0.0.1:64824] PHP  11. Core\\Lib\\System\\Vendor::includeClass() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel.php:0
+[Wed Feb 24 15:45:22.883824 2016] [:error] [pid 29611] [client 127.0.0.1:64868] PHP Fatal error:  Class 'PHPExcel_Shared_String' not found in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Autoloader.php on line 36
+[Wed Feb 24 15:45:22.884254 2016] [:error] [pid 29611] [client 127.0.0.1:64868] PHP Stack trace:
+[Wed Feb 24 15:45:22.884315 2016] [:error] [pid 29611] [client 127.0.0.1:64868] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 15:45:22.884342 2016] [:error] [pid 29611] [client 127.0.0.1:64868] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 15:45:22.884352 2016] [:error] [pid 29611] [client 127.0.0.1:64868] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 15:45:22.884363 2016] [:error] [pid 29611] [client 127.0.0.1:64868] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 15:45:22.884370 2016] [:error] [pid 29611] [client 127.0.0.1:64868] PHP   5. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:14
+[Wed Feb 24 15:45:22.884380 2016] [:error] [pid 29611] [client 127.0.0.1:64868] PHP   6. Core\\Lib\\System\\Vendor::includeClass() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:0
+[Wed Feb 24 15:45:22.884388 2016] [:error] [pid 29611] [client 127.0.0.1:64868] PHP   7. require() /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php:36
+[Wed Feb 24 15:45:22.884394 2016] [:error] [pid 29611] [client 127.0.0.1:64868] PHP   8. require_once() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php:8
+[Wed Feb 24 15:45:22.884401 2016] [:error] [pid 29611] [client 127.0.0.1:64868] PHP   9. require() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel.php:33
+[Wed Feb 24 15:49:14.518651 2016] [:error] [pid 29612] [client 127.0.0.1:64888] PHP Fatal error:  Class 'Applioation\\Crm\\Controller\\ExcelHandle' not found in /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php on line 14
+[Wed Feb 24 15:49:14.518896 2016] [:error] [pid 29612] [client 127.0.0.1:64888] PHP Stack trace:
+[Wed Feb 24 15:49:14.518934 2016] [:error] [pid 29612] [client 127.0.0.1:64888] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 15:49:14.518947 2016] [:error] [pid 29612] [client 127.0.0.1:64888] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 15:49:14.518956 2016] [:error] [pid 29612] [client 127.0.0.1:64888] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 15:49:14.518964 2016] [:error] [pid 29612] [client 127.0.0.1:64888] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 15:50:13.508951 2016] [:error] [pid 29609] [client 127.0.0.1:64903] PHP Fatal error:  Class 'Applioation\\Crm\\Controller\\ExcelHandle' not found in /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php on line 14
+[Wed Feb 24 15:50:13.509307 2016] [:error] [pid 29609] [client 127.0.0.1:64903] PHP Stack trace:
+[Wed Feb 24 15:50:13.509375 2016] [:error] [pid 29609] [client 127.0.0.1:64903] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 15:50:13.509444 2016] [:error] [pid 29609] [client 127.0.0.1:64903] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 15:50:13.509653 2016] [:error] [pid 29609] [client 127.0.0.1:64903] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 15:50:13.509700 2016] [:error] [pid 29609] [client 127.0.0.1:64903] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 15:50:38.425858 2016] [:error] [pid 29613] [client 127.0.0.1:64909] PHP Fatal error:  Class 'Applioation\\Crm\\Controller\\ExcelHandle' not found in /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php on line 14
+[Wed Feb 24 15:50:38.426156 2016] [:error] [pid 29613] [client 127.0.0.1:64909] PHP Stack trace:
+[Wed Feb 24 15:50:38.426226 2016] [:error] [pid 29613] [client 127.0.0.1:64909] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 15:50:38.426251 2016] [:error] [pid 29613] [client 127.0.0.1:64909] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 15:50:38.426261 2016] [:error] [pid 29613] [client 127.0.0.1:64909] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 15:50:38.426270 2016] [:error] [pid 29613] [client 127.0.0.1:64909] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 15:50:46.726984 2016] [:error] [pid 29599] [client 127.0.0.1:64914] PHP Fatal error:  Class 'Applioation\\Crm\\Controller\\ExcelHandle' not found in /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php on line 14
+[Wed Feb 24 15:50:46.731299 2016] [:error] [pid 29599] [client 127.0.0.1:64914] PHP Stack trace:
+[Wed Feb 24 15:50:46.731377 2016] [:error] [pid 29599] [client 127.0.0.1:64914] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 15:50:46.731430 2016] [:error] [pid 29599] [client 127.0.0.1:64914] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 15:50:46.731447 2016] [:error] [pid 29599] [client 127.0.0.1:64914] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 15:50:46.731464 2016] [:error] [pid 29599] [client 127.0.0.1:64914] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 15:51:14.780501 2016] [:error] [pid 29606] [client 127.0.0.1:64917] PHP Fatal error:  Class 'Applioation\\Crm\\Controller\\ExcelHandle' not found in /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php on line 14
+[Wed Feb 24 15:51:14.780751 2016] [:error] [pid 29606] [client 127.0.0.1:64917] PHP Stack trace:
+[Wed Feb 24 15:51:14.780799 2016] [:error] [pid 29606] [client 127.0.0.1:64917] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 15:51:14.780822 2016] [:error] [pid 29606] [client 127.0.0.1:64917] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 15:51:14.780830 2016] [:error] [pid 29606] [client 127.0.0.1:64917] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 15:51:14.780839 2016] [:error] [pid 29606] [client 127.0.0.1:64917] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 15:52:18.120813 2016] [:error] [pid 29608] [client 127.0.0.1:64926] PHP Fatal error:  Class 'Applioation\\Crm\\Controller\\ExcelHandle' not found in /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php on line 14
+[Wed Feb 24 15:52:18.121086 2016] [:error] [pid 29608] [client 127.0.0.1:64926] PHP Stack trace:
+[Wed Feb 24 15:52:18.121118 2016] [:error] [pid 29608] [client 127.0.0.1:64926] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 15:52:18.121139 2016] [:error] [pid 29608] [client 127.0.0.1:64926] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 15:52:18.121156 2016] [:error] [pid 29608] [client 127.0.0.1:64926] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 15:52:18.121164 2016] [:error] [pid 29608] [client 127.0.0.1:64926] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 15:53:19.991959 2016] [:error] [pid 29611] [client 127.0.0.1:64938] PHP Fatal error:  Class 'Applioation\\Crm\\Controller\\ExcelHandle' not found in /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php on line 14
+[Wed Feb 24 15:53:19.992234 2016] [:error] [pid 29611] [client 127.0.0.1:64938] PHP Stack trace:
+[Wed Feb 24 15:53:19.992258 2016] [:error] [pid 29611] [client 127.0.0.1:64938] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 15:53:19.992270 2016] [:error] [pid 29611] [client 127.0.0.1:64938] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 15:53:19.992282 2016] [:error] [pid 29611] [client 127.0.0.1:64938] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 15:53:19.992294 2016] [:error] [pid 29611] [client 127.0.0.1:64938] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 15:53:41.075868 2016] [:error] [pid 29610] [client 127.0.0.1:64943] PHP Fatal error:  Class 'Applioation\\Crm\\Controller\\ExcelHandle' not found in /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php on line 14
+[Wed Feb 24 15:53:41.075959 2016] [:error] [pid 29610] [client 127.0.0.1:64943] PHP Stack trace:
+[Wed Feb 24 15:53:41.075988 2016] [:error] [pid 29610] [client 127.0.0.1:64943] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 15:53:41.076001 2016] [:error] [pid 29610] [client 127.0.0.1:64943] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 15:53:41.076009 2016] [:error] [pid 29610] [client 127.0.0.1:64943] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 15:53:41.076017 2016] [:error] [pid 29610] [client 127.0.0.1:64943] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 15:53:58.348986 2016] [:error] [pid 29600] [client 127.0.0.1:64944] PHP Fatal error:  Class 'Applioation\\Crm\\Controller\\ExcelHandle' not found in /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php on line 14
+[Wed Feb 24 15:53:58.349145 2016] [:error] [pid 29600] [client 127.0.0.1:64944] PHP Stack trace:
+[Wed Feb 24 15:53:58.349215 2016] [:error] [pid 29600] [client 127.0.0.1:64944] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 15:53:58.349240 2016] [:error] [pid 29600] [client 127.0.0.1:64944] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 15:53:58.349253 2016] [:error] [pid 29600] [client 127.0.0.1:64944] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 15:53:58.349263 2016] [:error] [pid 29600] [client 127.0.0.1:64944] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 15:54:09.704178 2016] [:error] [pid 29612] [client 127.0.0.1:64945] PHP Warning:  Uncaught exception 'Whoops\\Exception\\ErrorException' with message 'require_once(/WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcels.php): failed to open stream: No such file or directory' in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php:8\nStack trace:\n#0 /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php(8): Whoops\\Run->handleError(2, 'require_once(/W...', '/WebServer/Docu...', 8, Array)\n#1 /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php(8): require_once()\n#2 /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php(37): require('/WebServer/Docu...')\n#3 [internal function]: Core\\Lib\\System\\Vendor::includeClass('Applioation\\\\Crm...')\n#4 /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php(14): spl_autoload_call('Applioation\\\\Crm...')\n#5 /WebServer/Documents/Sm/Core/Lib/System/System.class.php(107): Applioation\\Crm\\Controller\\IndexController->index()\n#6 /WebServer/Documents/Sm/Core/Sm.php(18): Core\\Lib\\System\\System_Co in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php on line 8
+[Wed Feb 24 15:54:09.704272 2016] [:error] [pid 29612] [client 127.0.0.1:64945] PHP Stack trace:
+[Wed Feb 24 15:54:09.704282 2016] [:error] [pid 29612] [client 127.0.0.1:64945] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 15:54:09.704289 2016] [:error] [pid 29612] [client 127.0.0.1:64945] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 15:54:09.704296 2016] [:error] [pid 29612] [client 127.0.0.1:64945] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 15:54:09.704304 2016] [:error] [pid 29612] [client 127.0.0.1:64945] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 15:54:09.704311 2016] [:error] [pid 29612] [client 127.0.0.1:64945] PHP   5. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:14
+[Wed Feb 24 15:54:09.704319 2016] [:error] [pid 29612] [client 127.0.0.1:64945] PHP   6. Core\\Lib\\System\\Vendor::includeClass() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:0
+[Wed Feb 24 15:54:09.704325 2016] [:error] [pid 29612] [client 127.0.0.1:64945] PHP   7. require() /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php:37
+[Wed Feb 24 15:54:09.704493 2016] [:error] [pid 29612] [client 127.0.0.1:64945] PHP Fatal error:  main(): Failed opening required '/WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcels.php' (include_path='.:/usr/local/php5/lib/php') in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php on line 8
+[Wed Feb 24 15:54:09.704498 2016] [:error] [pid 29612] [client 127.0.0.1:64945] PHP Stack trace:
+[Wed Feb 24 15:54:09.704505 2016] [:error] [pid 29612] [client 127.0.0.1:64945] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 15:54:09.704511 2016] [:error] [pid 29612] [client 127.0.0.1:64945] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 15:54:09.704518 2016] [:error] [pid 29612] [client 127.0.0.1:64945] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 15:54:09.704526 2016] [:error] [pid 29612] [client 127.0.0.1:64945] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 15:54:09.704532 2016] [:error] [pid 29612] [client 127.0.0.1:64945] PHP   5. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:14
+[Wed Feb 24 15:54:09.704540 2016] [:error] [pid 29612] [client 127.0.0.1:64945] PHP   6. Core\\Lib\\System\\Vendor::includeClass() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:0
+[Wed Feb 24 15:54:09.704546 2016] [:error] [pid 29612] [client 127.0.0.1:64945] PHP   7. require() /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php:37
+[Wed Feb 24 15:54:35.202439 2016] [:error] [pid 29609] [client 127.0.0.1:64946] PHP Fatal error:  Class 'Applioation\\Crm\\Controller\\ExcelHandle' not found in /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php on line 14
+[Wed Feb 24 15:54:35.202629 2016] [:error] [pid 29609] [client 127.0.0.1:64946] PHP Stack trace:
+[Wed Feb 24 15:54:35.202645 2016] [:error] [pid 29609] [client 127.0.0.1:64946] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 15:54:35.202653 2016] [:error] [pid 29609] [client 127.0.0.1:64946] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 15:54:35.202661 2016] [:error] [pid 29609] [client 127.0.0.1:64946] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 15:54:35.202678 2016] [:error] [pid 29609] [client 127.0.0.1:64946] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 15:55:08.789732 2016] [:error] [pid 29613] [client 127.0.0.1:64947] PHP Fatal error:  Class 'Applioation\\Crm\\Controller\\ExcelHandle' not found in /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php on line 14
+[Wed Feb 24 15:55:08.789807 2016] [:error] [pid 29613] [client 127.0.0.1:64947] PHP Stack trace:
+[Wed Feb 24 15:55:08.789817 2016] [:error] [pid 29613] [client 127.0.0.1:64947] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 15:55:08.789824 2016] [:error] [pid 29613] [client 127.0.0.1:64947] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 15:55:08.789832 2016] [:error] [pid 29613] [client 127.0.0.1:64947] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 15:55:08.789841 2016] [:error] [pid 29613] [client 127.0.0.1:64947] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 16:01:01.704035 2016] [:error] [pid 29599] [client 127.0.0.1:64991] PHP Warning:  Uncaught exception 'Whoops\\Exception\\ErrorException' with message 'require_once(/WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Reader/Excel5.php): failed to open stream: No such file or directory' in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php:9\nStack trace:\n#0 /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php(9): Whoops\\Run->handleError(2, 'require_once(/W...', '/WebServer/Docu...', 9, Array)\n#1 /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php(9): require_once()\n#2 /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php(36): require('/WebServer/Docu...')\n#3 [internal function]: Core\\Lib\\System\\Vendor::includeClass('ExcelHandle')\n#4 /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php(14): spl_autoload_call('ExcelHandle')\n#5 /WebServer/Documents/Sm/Core/Lib/System/System.class.php(107): Applioation\\Crm\\Controller\\IndexController->index()\n#6 /WebServer/Documents/Sm/Core/Sm.php(18): Core\\Lib\\System\\System_Core: in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php on line 9
+[Wed Feb 24 16:01:01.705096 2016] [:error] [pid 29599] [client 127.0.0.1:64991] PHP Stack trace:
+[Wed Feb 24 16:01:01.705121 2016] [:error] [pid 29599] [client 127.0.0.1:64991] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 16:01:01.705129 2016] [:error] [pid 29599] [client 127.0.0.1:64991] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 16:01:01.705138 2016] [:error] [pid 29599] [client 127.0.0.1:64991] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 16:01:01.705147 2016] [:error] [pid 29599] [client 127.0.0.1:64991] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 16:01:01.705154 2016] [:error] [pid 29599] [client 127.0.0.1:64991] PHP   5. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:14
+[Wed Feb 24 16:01:01.705162 2016] [:error] [pid 29599] [client 127.0.0.1:64991] PHP   6. Core\\Lib\\System\\Vendor::includeClass() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:0
+[Wed Feb 24 16:01:01.705168 2016] [:error] [pid 29599] [client 127.0.0.1:64991] PHP   7. require() /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php:36
+[Wed Feb 24 16:01:01.705397 2016] [:error] [pid 29599] [client 127.0.0.1:64991] PHP Fatal error:  main(): Failed opening required '/WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Reader/Excel5.php' (include_path='.:/usr/local/php5/lib/php') in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php on line 9
+[Wed Feb 24 16:01:01.705403 2016] [:error] [pid 29599] [client 127.0.0.1:64991] PHP Stack trace:
+[Wed Feb 24 16:01:01.705981 2016] [:error] [pid 29599] [client 127.0.0.1:64991] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 16:01:01.705989 2016] [:error] [pid 29599] [client 127.0.0.1:64991] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 16:01:01.705997 2016] [:error] [pid 29599] [client 127.0.0.1:64991] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 16:01:01.706005 2016] [:error] [pid 29599] [client 127.0.0.1:64991] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 16:01:01.706012 2016] [:error] [pid 29599] [client 127.0.0.1:64991] PHP   5. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:14
+[Wed Feb 24 16:01:01.706020 2016] [:error] [pid 29599] [client 127.0.0.1:64991] PHP   6. Core\\Lib\\System\\Vendor::includeClass() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:0
+[Wed Feb 24 16:01:01.706026 2016] [:error] [pid 29599] [client 127.0.0.1:64991] PHP   7. require() /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php:36
+[Wed Feb 24 16:09:39.171621 2016] [:error] [pid 29606] [client 127.0.0.1:65055] PHP Fatal error:  Class 'PHPExcel_Calculation' not found in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel.php on line 390
+[Wed Feb 24 16:09:39.171866 2016] [:error] [pid 29606] [client 127.0.0.1:65055] PHP Stack trace:
+[Wed Feb 24 16:09:39.171885 2016] [:error] [pid 29606] [client 127.0.0.1:65055] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 16:09:39.171893 2016] [:error] [pid 29606] [client 127.0.0.1:65055] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 16:09:39.171901 2016] [:error] [pid 29606] [client 127.0.0.1:65055] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 16:09:39.171909 2016] [:error] [pid 29606] [client 127.0.0.1:65055] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 16:09:39.171917 2016] [:error] [pid 29606] [client 127.0.0.1:65055] PHP   5. ExcelHandle->ReadFileData() /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php:15
+[Wed Feb 24 16:09:39.171925 2016] [:error] [pid 29606] [client 127.0.0.1:65055] PHP   6. PHPExcel_Reader_Excel5->load() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php:35
+[Wed Feb 24 16:09:39.171932 2016] [:error] [pid 29606] [client 127.0.0.1:65055] PHP   7. PHPExcel->__construct() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Reader/Excel5.php:615
+[Wed Feb 24 16:09:39.171939 2016] [:error] [pid 29606] [client 127.0.0.1:65055] PHP   8. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Reader/Excel5.php:360
+[Wed Feb 24 16:09:39.171946 2016] [:error] [pid 29606] [client 127.0.0.1:65055] PHP   9. Core\\Lib\\System\\Vendor::includeClass() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Reader/Excel5.php:0
+[Wed Feb 24 16:09:39.171954 2016] [:error] [pid 29606] [client 127.0.0.1:65055] PHP  10. Core\\Lib\\System\\Prompt::ViewError() /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php:40
+[Wed Feb 24 16:09:39.171961 2016] [:error] [pid 29606] [client 127.0.0.1:65055] PHP  11. PHPExcel->__destruct() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel.php:0
+[Wed Feb 24 16:10:34.888212 2016] [:error] [pid 29608] [client 127.0.0.1:65058] PHP Fatal error:  Class 'PHPExcel_Calculation' not found in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel.php on line 390
+[Wed Feb 24 16:10:34.888289 2016] [:error] [pid 29608] [client 127.0.0.1:65058] PHP Stack trace:
+[Wed Feb 24 16:10:34.888312 2016] [:error] [pid 29608] [client 127.0.0.1:65058] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 16:10:34.888325 2016] [:error] [pid 29608] [client 127.0.0.1:65058] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 16:10:34.888342 2016] [:error] [pid 29608] [client 127.0.0.1:65058] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 16:10:34.888350 2016] [:error] [pid 29608] [client 127.0.0.1:65058] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 16:10:34.888358 2016] [:error] [pid 29608] [client 127.0.0.1:65058] PHP   5. ExcelHandle->ReadFileData() /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php:15
+[Wed Feb 24 16:10:34.888365 2016] [:error] [pid 29608] [client 127.0.0.1:65058] PHP   6. PHPExcel_Reader_Excel5->load() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php:35
+[Wed Feb 24 16:10:34.888372 2016] [:error] [pid 29608] [client 127.0.0.1:65058] PHP   7. PHPExcel->__construct() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Reader/Excel5.php:615
+[Wed Feb 24 16:10:34.888378 2016] [:error] [pid 29608] [client 127.0.0.1:65058] PHP   8. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Reader/Excel5.php:360
+[Wed Feb 24 16:10:34.888385 2016] [:error] [pid 29608] [client 127.0.0.1:65058] PHP   9. Core\\Lib\\System\\Vendor::includeClass() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Reader/Excel5.php:0
+[Wed Feb 24 16:10:34.888392 2016] [:error] [pid 29608] [client 127.0.0.1:65058] PHP  10. Core\\Lib\\System\\Prompt::ViewError() /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php:40
+[Wed Feb 24 16:10:34.888399 2016] [:error] [pid 29608] [client 127.0.0.1:65058] PHP  11. PHPExcel->__destruct() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel.php:0
+[Wed Feb 24 16:10:51.245898 2016] [:error] [pid 29611] [client 127.0.0.1:65059] PHP Fatal error:  Class 'PHPExcel_Calculation' not found in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel.php on line 390
+[Wed Feb 24 16:10:51.246060 2016] [:error] [pid 29611] [client 127.0.0.1:65059] PHP Stack trace:
+[Wed Feb 24 16:10:51.246108 2016] [:error] [pid 29611] [client 127.0.0.1:65059] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 16:10:51.246134 2016] [:error] [pid 29611] [client 127.0.0.1:65059] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 16:10:51.246149 2016] [:error] [pid 29611] [client 127.0.0.1:65059] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 16:10:51.246161 2016] [:error] [pid 29611] [client 127.0.0.1:65059] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 16:10:51.246175 2016] [:error] [pid 29611] [client 127.0.0.1:65059] PHP   5. ExcelHandle->ReadFileData() /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php:15
+[Wed Feb 24 16:10:51.246189 2016] [:error] [pid 29611] [client 127.0.0.1:65059] PHP   6. PHPExcel_Reader_Excel5->load() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php:35
+[Wed Feb 24 16:10:51.246203 2016] [:error] [pid 29611] [client 127.0.0.1:65059] PHP   7. PHPExcel->__construct() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Reader/Excel5.php:615
+[Wed Feb 24 16:10:51.246222 2016] [:error] [pid 29611] [client 127.0.0.1:65059] PHP   8. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Reader/Excel5.php:360
+[Wed Feb 24 16:10:51.246236 2016] [:error] [pid 29611] [client 127.0.0.1:65059] PHP   9. Core\\Lib\\System\\Vendor::includeClass() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Reader/Excel5.php:0
+[Wed Feb 24 16:10:51.246251 2016] [:error] [pid 29611] [client 127.0.0.1:65059] PHP  10. Core\\Lib\\System\\Prompt::ViewError() /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php:40
+[Wed Feb 24 16:10:51.246265 2016] [:error] [pid 29611] [client 127.0.0.1:65059] PHP  11. PHPExcel->__destruct() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel.php:0
+[Wed Feb 24 16:11:21.354450 2016] [:error] [pid 29610] [client 127.0.0.1:65060] PHP Fatal error:  Class 'PHPExcel_Calculation' not found in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel.php on line 390
+[Wed Feb 24 16:11:21.355251 2016] [:error] [pid 29610] [client 127.0.0.1:65060] PHP Stack trace:
+[Wed Feb 24 16:11:21.355491 2016] [:error] [pid 29610] [client 127.0.0.1:65060] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 16:11:21.355586 2016] [:error] [pid 29610] [client 127.0.0.1:65060] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 16:11:21.355613 2016] [:error] [pid 29610] [client 127.0.0.1:65060] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 16:11:21.355640 2016] [:error] [pid 29610] [client 127.0.0.1:65060] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 16:11:21.355665 2016] [:error] [pid 29610] [client 127.0.0.1:65060] PHP   5. ExcelHandle->ReadFileData() /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php:15
+[Wed Feb 24 16:11:21.355685 2016] [:error] [pid 29610] [client 127.0.0.1:65060] PHP   6. PHPExcel_Reader_Excel5->load() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php:35
+[Wed Feb 24 16:11:21.355708 2016] [:error] [pid 29610] [client 127.0.0.1:65060] PHP   7. PHPExcel->__construct() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Reader/Excel5.php:615
+[Wed Feb 24 16:11:21.355722 2016] [:error] [pid 29610] [client 127.0.0.1:65060] PHP   8. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Reader/Excel5.php:360
+[Wed Feb 24 16:11:21.355738 2016] [:error] [pid 29610] [client 127.0.0.1:65060] PHP   9. Core\\Lib\\System\\Vendor::includeClass() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Reader/Excel5.php:0
+[Wed Feb 24 16:11:21.355753 2016] [:error] [pid 29610] [client 127.0.0.1:65060] PHP  10. Core\\Lib\\System\\Prompt::ViewError() /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php:40
+[Wed Feb 24 16:11:21.355774 2016] [:error] [pid 29610] [client 127.0.0.1:65060] PHP  11. PHPExcel->__destruct() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel.php:0
+[Wed Feb 24 16:11:43.716558 2016] [:error] [pid 29600] [client 127.0.0.1:65066] PHP Fatal error:  Class 'PHPExcel_Calculation' not found in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel.php on line 390
+[Wed Feb 24 16:11:43.718539 2016] [:error] [pid 29600] [client 127.0.0.1:65066] PHP Stack trace:
+[Wed Feb 24 16:11:43.718612 2016] [:error] [pid 29600] [client 127.0.0.1:65066] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 16:11:43.718652 2016] [:error] [pid 29600] [client 127.0.0.1:65066] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 16:11:43.718670 2016] [:error] [pid 29600] [client 127.0.0.1:65066] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 16:11:43.718696 2016] [:error] [pid 29600] [client 127.0.0.1:65066] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 16:11:43.718718 2016] [:error] [pid 29600] [client 127.0.0.1:65066] PHP   5. ExcelHandle->ReadFileData() /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php:15
+[Wed Feb 24 16:11:43.718732 2016] [:error] [pid 29600] [client 127.0.0.1:65066] PHP   6. PHPExcel_Reader_Excel5->load() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php:35
+[Wed Feb 24 16:11:43.718746 2016] [:error] [pid 29600] [client 127.0.0.1:65066] PHP   7. PHPExcel->__construct() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Reader/Excel5.php:615
+[Wed Feb 24 16:11:43.718756 2016] [:error] [pid 29600] [client 127.0.0.1:65066] PHP   8. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Reader/Excel5.php:360
+[Wed Feb 24 16:11:43.718768 2016] [:error] [pid 29600] [client 127.0.0.1:65066] PHP   9. Core\\Lib\\System\\Vendor::includeClass() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Reader/Excel5.php:0
+[Wed Feb 24 16:11:43.718977 2016] [:error] [pid 29600] [client 127.0.0.1:65066] PHP  10. Core\\Lib\\System\\Prompt::ViewError() /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php:40
+[Wed Feb 24 16:11:43.719232 2016] [:error] [pid 29600] [client 127.0.0.1:65066] PHP  11. PHPExcel->__destruct() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel.php:0
+[Wed Feb 24 16:12:03.397553 2016] [:error] [pid 29612] [client 127.0.0.1:65070] PHP Fatal error:  Class 'PHPExcel_Calculation' not found in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel.php on line 390
+[Wed Feb 24 16:12:03.397758 2016] [:error] [pid 29612] [client 127.0.0.1:65070] PHP Stack trace:
+[Wed Feb 24 16:12:03.397786 2016] [:error] [pid 29612] [client 127.0.0.1:65070] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 16:12:03.397806 2016] [:error] [pid 29612] [client 127.0.0.1:65070] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 16:12:03.397816 2016] [:error] [pid 29612] [client 127.0.0.1:65070] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 16:12:03.397824 2016] [:error] [pid 29612] [client 127.0.0.1:65070] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 16:12:03.397832 2016] [:error] [pid 29612] [client 127.0.0.1:65070] PHP   5. ExcelHandle->ReadFileData() /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php:15
+[Wed Feb 24 16:12:03.397839 2016] [:error] [pid 29612] [client 127.0.0.1:65070] PHP   6. PHPExcel_Reader_Excel5->load() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php:35
+[Wed Feb 24 16:12:03.397846 2016] [:error] [pid 29612] [client 127.0.0.1:65070] PHP   7. PHPExcel->__construct() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Reader/Excel5.php:615
+[Wed Feb 24 16:12:03.397852 2016] [:error] [pid 29612] [client 127.0.0.1:65070] PHP   8. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Reader/Excel5.php:360
+[Wed Feb 24 16:12:03.397859 2016] [:error] [pid 29612] [client 127.0.0.1:65070] PHP   9. Core\\Lib\\System\\Vendor::includeClass() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Reader/Excel5.php:0
+[Wed Feb 24 16:12:03.397867 2016] [:error] [pid 29612] [client 127.0.0.1:65070] PHP  10. Core\\Lib\\System\\Prompt::ViewError() /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php:39
+[Wed Feb 24 16:12:03.397874 2016] [:error] [pid 29612] [client 127.0.0.1:65070] PHP  11. PHPExcel->__destruct() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel.php:0
+[Wed Feb 24 16:12:27.374005 2016] [:error] [pid 29609] [client 127.0.0.1:65071] PHP Fatal error:  Class 'PHPExcel_Calculation_Function' not found in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Calculation.class.php on line 1785
+[Wed Feb 24 16:12:27.374075 2016] [:error] [pid 29609] [client 127.0.0.1:65071] PHP Stack trace:
+[Wed Feb 24 16:12:27.374084 2016] [:error] [pid 29609] [client 127.0.0.1:65071] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 16:12:27.374091 2016] [:error] [pid 29609] [client 127.0.0.1:65071] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 16:12:27.374098 2016] [:error] [pid 29609] [client 127.0.0.1:65071] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 16:12:27.374106 2016] [:error] [pid 29609] [client 127.0.0.1:65071] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 16:12:27.374114 2016] [:error] [pid 29609] [client 127.0.0.1:65071] PHP   5. ExcelHandle->ReadFileData() /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php:15
+[Wed Feb 24 16:12:27.374121 2016] [:error] [pid 29609] [client 127.0.0.1:65071] PHP   6. PHPExcel_Reader_Excel5->load() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php:35
+[Wed Feb 24 16:12:27.374128 2016] [:error] [pid 29609] [client 127.0.0.1:65071] PHP   7. PHPExcel->__construct() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Reader/Excel5.php:615
+[Wed Feb 24 16:12:27.374143 2016] [:error] [pid 29609] [client 127.0.0.1:65071] PHP   8. PHPExcel_Calculation::getInstance() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel.php:360
+[Wed Feb 24 16:12:27.374150 2016] [:error] [pid 29609] [client 127.0.0.1:65071] PHP   9. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel.php:1764
+[Wed Feb 24 16:12:27.374157 2016] [:error] [pid 29609] [client 127.0.0.1:65071] PHP  10. Core\\Lib\\System\\Vendor::includeClass() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel.php:0
+[Wed Feb 24 16:12:27.374163 2016] [:error] [pid 29609] [client 127.0.0.1:65071] PHP  11. Core\\Lib\\System\\Prompt::ViewError() /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php:39
+[Wed Feb 24 16:12:27.374170 2016] [:error] [pid 29609] [client 127.0.0.1:65071] PHP  12. PHPExcel->__destruct() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel.php:0
+[Wed Feb 24 16:12:27.374177 2016] [:error] [pid 29609] [client 127.0.0.1:65071] PHP  13. PHPExcel_Calculation::unsetInstance() /WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel.php:390
+[Wed Feb 24 16:27:39.088557 2016] [:error] [pid 29599] [client 127.0.0.1:65241] PHP Warning:  Uncaught exception 'Whoops\\Exception\\ErrorException' with message 'require_once(/WebServer/Documents/Sm/Home/Lib/ORG/PHPExcel.php): failed to open stream: No such file or directory' in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelImport.class.php:8\nStack trace:\n#0 /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelImport.class.php(8): Whoops\\Run->handleError(2, 'require_once(/W...', '/WebServer/Docu...', 8, Array)\n#1 /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelImport.class.php(8): require_once()\n#2 /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php(36): require('/WebServer/Docu...')\n#3 [internal function]: Core\\Lib\\System\\Vendor::includeClass('ExcelImport')\n#4 /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php(18): spl_autoload_call('ExcelImport')\n#5 /WebServer/Documents/Sm/Core/Lib/System/System.class.php(107): Applioation\\Crm\\Controller\\IndexController->index()\n#6 /WebServer/Documents/Sm/Core/Sm.php(18): Core\\Lib\\System\\System_Core::start()\n#7 /WebServer/Do in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelImport.class.php on line 8
+[Wed Feb 24 16:27:39.088786 2016] [:error] [pid 29599] [client 127.0.0.1:65241] PHP Stack trace:
+[Wed Feb 24 16:27:39.088803 2016] [:error] [pid 29599] [client 127.0.0.1:65241] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 16:27:39.088810 2016] [:error] [pid 29599] [client 127.0.0.1:65241] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 16:27:39.088818 2016] [:error] [pid 29599] [client 127.0.0.1:65241] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 16:27:39.088825 2016] [:error] [pid 29599] [client 127.0.0.1:65241] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 16:27:39.088831 2016] [:error] [pid 29599] [client 127.0.0.1:65241] PHP   5. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:18
+[Wed Feb 24 16:27:39.088839 2016] [:error] [pid 29599] [client 127.0.0.1:65241] PHP   6. Core\\Lib\\System\\Vendor::includeClass() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:0
+[Wed Feb 24 16:27:39.088845 2016] [:error] [pid 29599] [client 127.0.0.1:65241] PHP   7. require() /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php:36
+[Wed Feb 24 16:27:39.088937 2016] [:error] [pid 29599] [client 127.0.0.1:65241] PHP Fatal error:  main(): Failed opening required '/WebServer/Documents/Sm/Home/Lib/ORG/PHPExcel.php' (include_path='.:/usr/local/php5/lib/php') in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelImport.class.php on line 9
+[Wed Feb 24 16:27:39.088942 2016] [:error] [pid 29599] [client 127.0.0.1:65241] PHP Stack trace:
+[Wed Feb 24 16:27:39.088955 2016] [:error] [pid 29599] [client 127.0.0.1:65241] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 16:27:39.088961 2016] [:error] [pid 29599] [client 127.0.0.1:65241] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 16:27:39.088968 2016] [:error] [pid 29599] [client 127.0.0.1:65241] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 16:27:39.088975 2016] [:error] [pid 29599] [client 127.0.0.1:65241] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 16:27:39.088981 2016] [:error] [pid 29599] [client 127.0.0.1:65241] PHP   5. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:18
+[Wed Feb 24 16:27:39.088988 2016] [:error] [pid 29599] [client 127.0.0.1:65241] PHP   6. Core\\Lib\\System\\Vendor::includeClass() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:0
+[Wed Feb 24 16:27:39.088993 2016] [:error] [pid 29599] [client 127.0.0.1:65241] PHP   7. require() /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php:36
+[Wed Feb 24 16:33:24.077608 2016] [:error] [pid 29612] [client 127.0.0.1:65296] PHP Warning:  Uncaught exception 'Whoops\\Exception\\ErrorException' with message 'require_once(/WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Reader/Excel5.class.php): failed to open stream: No such file or directory' in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php:9\nStack trace:\n#0 /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php(9): Whoops\\Run->handleError(2, 'require_once(/W...', '/WebServer/Docu...', 9, Array)\n#1 /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php(9): require_once()\n#2 /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php(36): require('/WebServer/Docu...')\n#3 [internal function]: Core\\Lib\\System\\Vendor::includeClass('ExcelHandle')\n#4 /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php(14): spl_autoload_call('ExcelHandle')\n#5 /WebServer/Documents/Sm/Core/Lib/System/System.class.php(107): Applioation\\Crm\\Controller\\IndexController->index()\n#6 /WebServer/Documents/Sm/Core/Sm.php(18): Core\\Lib\\System\\System in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php on line 9
+[Wed Feb 24 16:33:24.077887 2016] [:error] [pid 29612] [client 127.0.0.1:65296] PHP Stack trace:
+[Wed Feb 24 16:33:24.077905 2016] [:error] [pid 29612] [client 127.0.0.1:65296] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 16:33:24.077913 2016] [:error] [pid 29612] [client 127.0.0.1:65296] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 16:33:24.077921 2016] [:error] [pid 29612] [client 127.0.0.1:65296] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 16:33:24.077929 2016] [:error] [pid 29612] [client 127.0.0.1:65296] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 16:33:24.077935 2016] [:error] [pid 29612] [client 127.0.0.1:65296] PHP   5. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:14
+[Wed Feb 24 16:33:24.077943 2016] [:error] [pid 29612] [client 127.0.0.1:65296] PHP   6. Core\\Lib\\System\\Vendor::includeClass() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:0
+[Wed Feb 24 16:33:24.077949 2016] [:error] [pid 29612] [client 127.0.0.1:65296] PHP   7. require() /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php:36
+[Wed Feb 24 16:33:24.078107 2016] [:error] [pid 29612] [client 127.0.0.1:65296] PHP Fatal error:  main(): Failed opening required '/WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Reader/Excel5.class.php' (include_path='.:/usr/local/php5/lib/php') in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php on line 8
+[Wed Feb 24 16:33:24.078112 2016] [:error] [pid 29612] [client 127.0.0.1:65296] PHP Stack trace:
+[Wed Feb 24 16:33:24.078126 2016] [:error] [pid 29612] [client 127.0.0.1:65296] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 16:33:24.078133 2016] [:error] [pid 29612] [client 127.0.0.1:65296] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 16:33:24.078140 2016] [:error] [pid 29612] [client 127.0.0.1:65296] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 16:33:24.078147 2016] [:error] [pid 29612] [client 127.0.0.1:65296] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 16:33:24.078153 2016] [:error] [pid 29612] [client 127.0.0.1:65296] PHP   5. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:14
+[Wed Feb 24 16:33:24.078160 2016] [:error] [pid 29612] [client 127.0.0.1:65296] PHP   6. Core\\Lib\\System\\Vendor::includeClass() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:0
+[Wed Feb 24 16:33:24.078166 2016] [:error] [pid 29612] [client 127.0.0.1:65296] PHP   7. require() /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php:36
+[Wed Feb 24 16:34:07.263652 2016] [:error] [pid 29608] [client 127.0.0.1:65302] PHP Warning:  Uncaught exception 'Whoops\\Exception\\ErrorException' with message 'require_once(/WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Reader/Excel5.class.php): failed to open stream: No such file or directory' in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php:9\nStack trace:\n#0 /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php(9): Whoops\\Run->handleError(2, 'require_once(/W...', '/WebServer/Docu...', 9, Array)\n#1 /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php(9): require_once()\n#2 /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php(36): require('/WebServer/Docu...')\n#3 [internal function]: Core\\Lib\\System\\Vendor::includeClass('ExcelHandle')\n#4 /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php(14): spl_autoload_call('ExcelHandle')\n#5 /WebServer/Documents/Sm/Core/Lib/System/System.class.php(107): Applioation\\Crm\\Controller\\IndexController->index()\n#6 /WebServer/Documents/Sm/Core/Sm.php(18): Core\\Lib\\System\\System in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php on line 9
+[Wed Feb 24 16:34:07.263997 2016] [:error] [pid 29608] [client 127.0.0.1:65302] PHP Stack trace:
+[Wed Feb 24 16:34:07.264016 2016] [:error] [pid 29608] [client 127.0.0.1:65302] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 16:34:07.264024 2016] [:error] [pid 29608] [client 127.0.0.1:65302] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 16:34:07.264033 2016] [:error] [pid 29608] [client 127.0.0.1:65302] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 16:34:07.264041 2016] [:error] [pid 29608] [client 127.0.0.1:65302] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 16:34:07.264048 2016] [:error] [pid 29608] [client 127.0.0.1:65302] PHP   5. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:14
+[Wed Feb 24 16:34:07.264056 2016] [:error] [pid 29608] [client 127.0.0.1:65302] PHP   6. Core\\Lib\\System\\Vendor::includeClass() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:0
+[Wed Feb 24 16:34:07.264063 2016] [:error] [pid 29608] [client 127.0.0.1:65302] PHP   7. require() /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php:36
+[Wed Feb 24 16:34:07.264226 2016] [:error] [pid 29608] [client 127.0.0.1:65302] PHP Fatal error:  main(): Failed opening required '/WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Reader/Excel5.class.php' (include_path='.:/usr/local/php5/lib/php') in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php on line 38
+[Wed Feb 24 16:34:07.264232 2016] [:error] [pid 29608] [client 127.0.0.1:65302] PHP Stack trace:
+[Wed Feb 24 16:34:07.264247 2016] [:error] [pid 29608] [client 127.0.0.1:65302] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 16:34:07.264254 2016] [:error] [pid 29608] [client 127.0.0.1:65302] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 16:34:07.264261 2016] [:error] [pid 29608] [client 127.0.0.1:65302] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 16:34:07.264268 2016] [:error] [pid 29608] [client 127.0.0.1:65302] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 16:34:07.264274 2016] [:error] [pid 29608] [client 127.0.0.1:65302] PHP   5. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:14
+[Wed Feb 24 16:34:07.264282 2016] [:error] [pid 29608] [client 127.0.0.1:65302] PHP   6. Core\\Lib\\System\\Vendor::includeClass() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:0
+[Wed Feb 24 16:34:07.264288 2016] [:error] [pid 29608] [client 127.0.0.1:65302] PHP   7. require() /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php:36
+[Wed Feb 24 16:34:31.799455 2016] [:error] [pid 29609] [client 127.0.0.1:65303] PHP Warning:  Uncaught exception 'Whoops\\Exception\\ErrorException' with message 'require_once(/WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Reader/Excel5.class.php): failed to open stream: No such file or directory' in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php:9\nStack trace:\n#0 /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php(9): Whoops\\Run->handleError(2, 'require_once(/W...', '/WebServer/Docu...', 9, Array)\n#1 /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php(9): require_once()\n#2 /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php(36): require('/WebServer/Docu...')\n#3 [internal function]: Core\\Lib\\System\\Vendor::includeClass('ExcelHandle')\n#4 /WebServer/Documents/Sm/Applioation/Crm/Controller/IndexController.class.php(14): spl_autoload_call('ExcelHandle')\n#5 /WebServer/Documents/Sm/Core/Lib/System/System.class.php(107): Applioation\\Crm\\Controller\\IndexController->index()\n#6 /WebServer/Documents/Sm/Core/Sm.php(18): Core\\Lib\\System\\System in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php on line 9
+[Wed Feb 24 16:34:31.799567 2016] [:error] [pid 29609] [client 127.0.0.1:65303] PHP Stack trace:
+[Wed Feb 24 16:34:31.799576 2016] [:error] [pid 29609] [client 127.0.0.1:65303] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 16:34:31.799582 2016] [:error] [pid 29609] [client 127.0.0.1:65303] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 16:34:31.799590 2016] [:error] [pid 29609] [client 127.0.0.1:65303] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 16:34:31.799598 2016] [:error] [pid 29609] [client 127.0.0.1:65303] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 16:34:31.799605 2016] [:error] [pid 29609] [client 127.0.0.1:65303] PHP   5. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:14
+[Wed Feb 24 16:34:31.799612 2016] [:error] [pid 29609] [client 127.0.0.1:65303] PHP   6. Core\\Lib\\System\\Vendor::includeClass() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:0
+[Wed Feb 24 16:34:31.799618 2016] [:error] [pid 29609] [client 127.0.0.1:65303] PHP   7. require() /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php:36
+[Wed Feb 24 16:34:31.799728 2016] [:error] [pid 29609] [client 127.0.0.1:65303] PHP Fatal error:  main(): Failed opening required '/WebServer/Documents/Sm/Core/Lib/Expansion/Util/PHPExcel/Reader/Excel5.class.php' (include_path='.:/usr/local/php5/lib/php') in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ExcelHandle.class.php on line 8
+[Wed Feb 24 16:34:31.799734 2016] [:error] [pid 29609] [client 127.0.0.1:65303] PHP Stack trace:
+[Wed Feb 24 16:34:31.799749 2016] [:error] [pid 29609] [client 127.0.0.1:65303] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 16:34:31.799755 2016] [:error] [pid 29609] [client 127.0.0.1:65303] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 16:34:31.799762 2016] [:error] [pid 29609] [client 127.0.0.1:65303] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 16:34:31.799770 2016] [:error] [pid 29609] [client 127.0.0.1:65303] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 16:34:31.799777 2016] [:error] [pid 29609] [client 127.0.0.1:65303] PHP   5. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:14
+[Wed Feb 24 16:34:31.799784 2016] [:error] [pid 29609] [client 127.0.0.1:65303] PHP   6. Core\\Lib\\System\\Vendor::includeClass() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:0
+[Wed Feb 24 16:34:31.799790 2016] [:error] [pid 29609] [client 127.0.0.1:65303] PHP   7. require() /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php:36
+[Wed Feb 24 16:45:31.567863 2016] [:error] [pid 29609] [client 127.0.0.1:65447] PHP Fatal error:  Cannot redeclare class ReflectionClass in /WebServer/Documents/Sm/Core/Lib/Expansion/Util/ReflectionClass.class.php on line 3
+[Wed Feb 24 16:45:31.568292 2016] [:error] [pid 29609] [client 127.0.0.1:65447] PHP Stack trace:
+[Wed Feb 24 16:45:31.568321 2016] [:error] [pid 29609] [client 127.0.0.1:65447] PHP   1. {main}() /WebServer/Documents/Sm/index.php:0
+[Wed Feb 24 16:45:31.568331 2016] [:error] [pid 29609] [client 127.0.0.1:65447] PHP   2. include() /WebServer/Documents/Sm/index.php:11
+[Wed Feb 24 16:45:31.568339 2016] [:error] [pid 29609] [client 127.0.0.1:65447] PHP   3. Core\\Lib\\System\\System_Core::start() /WebServer/Documents/Sm/Core/Sm.php:18
+[Wed Feb 24 16:45:31.568348 2016] [:error] [pid 29609] [client 127.0.0.1:65447] PHP   4. Applioation\\Crm\\Controller\\IndexController->index() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:107
+[Wed Feb 24 16:45:31.568355 2016] [:error] [pid 29609] [client 127.0.0.1:65447] PHP   5. spl_autoload_call() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:17
+[Wed Feb 24 16:45:31.568363 2016] [:error] [pid 29609] [client 127.0.0.1:65447] PHP   6. Core\\Lib\\System\\Vendor::includeClass() /WebServer/Documents/Sm/Core/Lib/System/System.class.php:0
+[Wed Feb 24 16:45:31.568370 2016] [:error] [pid 29609] [client 127.0.0.1:65447] PHP   7. require() /WebServer/Documents/Sm/Core/Lib/System/Vendor.class.php:36

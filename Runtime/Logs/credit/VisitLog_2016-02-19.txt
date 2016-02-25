@@ -1,0 +1,84 @@
+
+[ 2016-02-19 11:19:46 => 127.0.0.1 ] : credit/Index/sendtext 
+ 	InputData： 
+ 	[页面执行时间: 19.52毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 11:19:51 => 127.0.0.1 ] : credit/Index/sendtext 
+ 	InputData： con=>'https://m-develop.migang.com/user/reg?crmuid=600131', province=>'12', city=>'178', 
+ 	[页面执行时间: 4.61毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 11:19:55 => 127.0.0.1 ] : credit/Index/sendtext 
+ 	InputData： con=>'https://m-develop.migang.com/user/reg?crmuid=600131', province=>'12', city=>'178', 
+ 	[页面执行时间: 5.54毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 11:20:06 => 127.0.0.1 ] : credit/Index/sendtext 
+ 	InputData： con=>'https://m-develop.migang.com/user/reg?crmuid=600131', province=>'12', city=>'178', 
+ 	[页面执行时间: 3.85毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 11:20:09 => 127.0.0.1 ] : credit/Index/sendtext 
+ 	InputData： con=>'https://m-develop.migang.com/user/reg?crmuid=600131', province=>'12', city=>'178', 
+ 	[页面执行时间: 5.10毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 11:20:17 => 127.0.0.1 ] : credit/Index/sendtext 
+ 	InputData： con=>'https://m-develop.migang.com/user/reg?crmuid=600131/province=12', city=>'178', 
+ 	[页面执行时间: 4.21毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 14:20:40 => 127.0.0.1 ] : credit/Index/sendtext 
+ 	InputData： 
+ 	[页面执行时间: 24.49毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 14:20:42 => 127.0.0.1 ] : credit/Index/sendtext 
+ 	InputData： 
+ 	[页面执行时间: 6.11毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 14:21:55 => 127.0.0.1 ] : credit/Index/sendtext 
+ 	InputData： 
+ 	[页面执行时间: 12.31毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 14:22:15 => 127.0.0.1 ] : credit/Index/sendtext 
+ 	InputData： 
+ 	[页面执行时间: 11.06毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 14:32:12 => 127.0.0.1 ] : credit/Index/sendtext 
+ 	InputData： 
+ 	[页面执行时间: 6.42毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 14:32:16 => 127.0.0.1 ] : credit/Index/sendtext 
+ 	InputData： 
+ 	[页面执行时间: 4.43毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 14:33:18 => 127.0.0.1 ] : credit/Index/sendtext 
+ 	InputData： 
+ 	[页面执行时间: 4.55毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 14:33:25 => 127.0.0.1 ] : credit/Index/db 
+ 	InputData： 
+ 	[页面执行时间: 9.61毫秒]   消耗：1.25MB 内存
+
+[ 2016-02-19 14:33:39 => 127.0.0.1 ] : credit/Index/db 
+ 	InputData： 
+ 	[页面执行时间: 9.63毫秒]   消耗：1.25MB 内存
+
+[ 2016-02-19 14:33:53 => 127.0.0.1 ] : credit/Index/db 
+ 	InputData： 
+ 	[页面执行时间: 9.17毫秒]   消耗：1.25MB 内存
+
+[ 2016-02-19 14:56:22 => 127.0.0.1 ] : credit/Index/db 
+ 	InputData： 
+ 	[页面执行时间: 47.84毫秒]   消耗：1.25MB 内存
+
+[ 2016-02-19 14:57:42 => 127.0.0.1 ] : credit/Index/db 
+ 	InputData： 
+ 	[页面执行时间: 15.38毫秒]   消耗：1.25MB 内存
+
+[ 2016-02-19 14:57:46 => 127.0.0.1 ] : credit/Index/db 
+ 	InputData： databases=>'performance_schema', 
+ 	[页面执行时间: 4.18毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 20:27:04 => 127.0.0.1 ] : credit/Index/sendtext 
+ 	InputData： 
+ 	[页面执行时间: 16.27毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 20:28:28 => 127.0.0.1 ] : credit/Index/sendtext 
+ 	InputData： 
+ 	[页面执行时间: 4.31毫秒]   消耗：1MB 内存

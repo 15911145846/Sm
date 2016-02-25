@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Form表单验证</title>
+	<link rel="stylesheet" href="<?php echo $__FORMYZ__?>theme-default.css" />
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+	<script src="//code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/numeral.js/1.4.5/numeral.min.js"></script>
+	<script src="<?php echo $__FORMYZ__?>jquery.form-validator.min.js"></script>
+</head>
+<body>
+<form id='FormSubmit' action="<?php echo WebUrl('/credit/Index/FormYzDo')?>" method='POST'>
+	<p>
+      E-mail:
+      <input data-validation="email" data-validation-error-msg="You did not enter a valid e-mail">
+    </p>
+    <p>
+      Password:
+      <input data-validation="required" 
+		 data-validation-error-msg="You did not enter a password" type="password">
+    </p>
+	<input type="submit" value="提交">
+	<button class="button" type="button"
+        onclick="alert('Form a is ' + ( $('#FormSubmit').isValid() ? 'VALID':'NOT VALID'));">
+        Test validation via js (showing error messages)
+     </button>
+</form>
+</body>
+</html>
+
+<script type="text/javascript">
+
+	$.validate({
+	    validateOnBlur : false, // disable validation when input looses focus
+	    errorMessagePosition : 'top', // Instead of 'element' which is default
+	    scrollToTopOnError : false // Set this property to true if you have a long form
+	});
+</script>

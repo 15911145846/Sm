@@ -1,0 +1,166 @@
+
+[ 2016-02-19 09:38:49 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0303', memberid=>'600100', userid=>'600127', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'3', category=>'2016-02', token=>'test', 
+ 	[页面执行时间: 316.81毫秒]   消耗：1.25MB 内存
+
+[ 2016-02-19 09:39:33 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0303', memberid=>'600100', userid=>'600127', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'3', category=>'2016-02', token=>'test', 
+ 	[页面执行时间: 666.53毫秒]   消耗：1.25MB 内存
+
+[ 2016-02-19 11:12:06 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0000', memberid=>'600100', userid=>'600127', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'3', category=>'2016-02', token=>'test', 
+ 	[页面执行时间: 261.58毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 11:12:26 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0000', memberid=>'600100', userid=>'600127', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'3', category=>'2016-02', token=>'test', 
+ 	[页面执行时间: 588.31毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 11:14:14 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0000', memberid=>'600100', userid=>'600127', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'13261557402', type=>'3', category=>'2016-02', token=>'test', password=>'mg123456', code=>'452288', 
+ 	[页面执行时间: 601.71毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 11:16:18 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0000', memberid=>'600100', userid=>'600127', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'13261557402', type=>'3', category=>'2016-02', token=>'test', password=>'mg123456', code=>'452288', 
+ 	[页面执行时间: 600.36毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 11:16:35 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0000', memberid=>'600100', userid=>'600127', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'13261557402', type=>'3', category=>'2016-02', password=>'9d729e5913572ec6f12e6fb7bf24d0c7', code=>'452288', token=>'test', 
+ 	[页面执行时间: 649.47毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 11:26:14 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0000', memberid=>'600100', userid=>'600127', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'13261557402', type=>'3', category=>'2016-02', password=>'8cd7da1981848df974d158bf571010a3', code=>'219284', token=>'test', 
+ 	[页面执行时间: 227.31毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 11:26:27 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0000', memberid=>'600100', userid=>'600127', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'13261557402', type=>'3', category=>'2016-02', password=>'8cd7da1981848df974d158bf571010a3', code=>'219284', token=>'test', 
+ 	[页面执行时间: 552.36毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 11:27:49 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： 
+ 	[页面执行时间: 6.81毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 11:28:41 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600100', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'13261557402', type=>'2', category=>'2', password=>'mg123456', code=>'463458', token=>'test', 
+ 	[页面执行时间: 1212.55毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 11:28:49 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0000', memberid=>'600100', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'13261557402', type=>'2', category=>'2', password=>'9d729e5913572ec6f12e6fb7bf24d0c7', code=>'463458', token=>'test', 
+ 	[页面执行时间: 228.57毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 11:39:43 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600100', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'13261557402', type=>'2', category=>'2', password=>'mg123456', code=>'463458', token=>'test', 
+ 	[页面执行时间: 867.58毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 16:26:59 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0202', memberid=>'600100', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'13261557402', type=>'2', category=>'2', password=>'9d729e5913572ec6f12e6fb7bf24d0c7', code=>'463458', token=>'test', 
+ 	[页面执行时间: 201.98毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 16:28:15 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0202', memberid=>'600100', userid=>'600082', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'13261557402', type=>'2', category=>'2', password=>'8cd7da1981848df974d158bf571010a3', code=>'463458', token=>'test', 
+ 	[页面执行时间: 630.95毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 16:29:14 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0202', memberid=>'600100', userid=>'600082', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'13261557402', type=>'1', category=>'2', password=>'54caaba98f21ccfb6f04b90f190d4886', code=>'463458', token=>'test', 
+ 	[页面执行时间: 1060.48毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 16:29:32 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0202', memberid=>'600100', userid=>'600082', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'13261557402', type=>'3', category=>'2', password=>'719717e6f5433f2c7a041ea2c4f3c80e', code=>'463458', token=>'test', 
+ 	[页面执行时间: 664.54毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 16:39:07 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0202', memberid=>'600100', userid=>'600082', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'13261557402', type=>'2', category=>'2', password=>'18aaa678f5d41b9afa65d6185749d706', code=>'463458', token=>'test', 
+ 	[页面执行时间: 271.93毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 16:39:30 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0202', memberid=>'600100', userid=>'600082', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'13261557402', type=>'2', category=>'2', password=>'eb45172988f1571fbd54f9c435640900', code=>'463458', token=>'test', 
+ 	[页面执行时间: 646.88毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 16:39:40 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0202', memberid=>'600100', userid=>'600082', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'13261557402', type=>'1', category=>'2', password=>'462d1a665d535fc8281dfb177b9101ab', code=>'463458', token=>'test', 
+ 	[页面执行时间: 893.39毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 16:39:51 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0202', memberid=>'600100', userid=>'600082', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'13261557402', type=>'-1', category=>'2', password=>'84166ccb388ea0ad6ce5491fdfb39582', code=>'463458', token=>'test', 
+ 	[页面执行时间: 1065.97毫秒]   消耗：1.25MB 内存
+
+[ 2016-02-19 16:56:20 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0202', memberid=>'600100', userid=>'600082', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'13261557402', type=>'-1', category=>'2', password=>'c3e855bc24df14e1659da36ad3b9a59a', code=>'463458', token=>'test', 
+ 	[页面执行时间: 258.71毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 16:59:28 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0202', memberid=>'600100', userid=>'600082', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'13261557402', type=>'-1', category=>'2', password=>'604145643bb24f0565e4092cf25f873f', code=>'463458', token=>'test', 
+ 	[页面执行时间: 660.23毫秒]   消耗：1.25MB 内存
+
+[ 2016-02-19 20:09:54 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： 
+ 	[页面执行时间: 26.79毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 20:10:00 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： 
+ 	[页面执行时间: 7.60毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 20:10:01 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： 
+ 	[页面执行时间: 5.03毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 20:10:08 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： 
+ 	[页面执行时间: 10.15毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 20:10:10 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： 
+ 	[页面执行时间: 6.48毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 20:10:12 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： 
+ 	[页面执行时间: 5.16毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 20:10:30 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600100', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', category=>'2', password=>'mg123456', code=>'2', token=>'test', 
+ 	[页面执行时间: 994.15毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 20:11:35 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600100', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', category=>'2', password=>'mg123456', code=>'2', token=>'test', 
+ 	[页面执行时间: 2491.57毫秒]   消耗：1MB 内存
+
+ 	[页面执行时间: 9.01毫秒]   消耗：1.25MB 内存
+
+ 	[页面执行时间: 7.50毫秒]   消耗：1MB 内存
+
+ 	[页面执行时间: 4.67毫秒]   消耗：1.25MB 内存
+
+[ 2016-02-19 20:28:37 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600100', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', category=>'2', password=>'9d729e5913572ec6f12e6fb7bf24d0c7', code=>'2', token=>'test', 
+ 	[页面执行时间: 952.88毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 20:28:38 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600100', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', category=>'2', password=>'8cd7da1981848df974d158bf571010a3', code=>'2', token=>'test', 
+ 	[页面执行时间: 812.39毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 20:28:40 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600100', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', category=>'2', password=>'54caaba98f21ccfb6f04b90f190d4886', code=>'2', token=>'test', 
+ 	[页面执行时间: 881.91毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 20:28:45 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600100', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', category=>'2', password=>'54caaba98f21ccfb6f04b90f190d4886', code=>'2', token=>'test', 
+ 	[页面执行时间: 739.39毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 20:36:35 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600100', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', category=>'2', password=>'54caaba98f21ccfb6f04b90f190d4886', code=>'2', token=>'test', 
+ 	[页面执行时间: 857.03毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 20:36:40 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600100', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', category=>'2', password=>'54caaba98f21ccfb6f04b90f190d4886', code=>'2', token=>'test', 
+ 	[页面执行时间: 837.10毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 20:36:46 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600100', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', category=>'2', password=>'54caaba98f21ccfb6f04b90f190d4886', code=>'2', token=>'test', 
+ 	[页面执行时间: 1183.91毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 20:57:50 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600100', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', category=>'2', password=>'54caaba98f21ccfb6f04b90f190d4886', code=>'2', token=>'test', 
+ 	[页面执行时间: 937.90毫秒]   消耗：1MB 内存
+
+[ 2016-02-19 20:58:10 => 127.0.0.1 ] : Home/Index/crm 
+ 	InputData： actionUrl=>'https://apicrm-develop.migang.com', sign=>'471fd68f847eaccd77e0de61bf5d4b10', web_test=>'true', crmtype=>'0501', memberid=>'600100', userid=>'600100', taruserid=>'12107 	', phonenum=>'', name=>'', status=>'0', proid=>'2082', S=>'', page=>'1', phone=>'15911145846', type=>'2', category=>'2', password=>'8cd7da1981848df974d158bf571010a3', code=>'2', token=>'test', 
+ 	[页面执行时间: 1141.31毫秒]   消耗：1MB 内存

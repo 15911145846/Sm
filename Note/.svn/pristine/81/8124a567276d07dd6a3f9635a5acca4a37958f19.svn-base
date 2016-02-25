@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="shortcut icon" href="favicon.ico" />
+	<title>个人记事本</title>
+	<meta name="viewport" content="initial-scale=1, user-scalable=0, minimal-ui">
+	<meta property="og:url" content="https://craftpip.github.io/jquery-confirm" />
+	<link rel="stylesheet" href="<?php echo $__STYLECSS__?>bootstrap.min.css">
+	<link rel="stylesheet" href="<?php echo $__STYLECSS__?>jquery-confirm.css">
+	<script src="<?php echo $__STYLEJS__?>jquery.min.js"></script>
+	<script src="<?php echo $__STYLEJS__?>jquery-confirm.js"></script>
+	<script src="<?php echo $__STYLEJS__?>bootstrap.min.js"></script>
+	<script src="<?php echo $__STYLEJS__?>bootstrap.menu.min.js"></script>
+	<style type="text/css">
+		html{ overflow-y: scroll; }
+	</style>
+</head>
+<body>
+
+	<!-- Modal 模态框 -->
+	<div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+		<div class="modal-dialog modal-lg" id='ModelConnect'>
+		</div>
+	</div>
+	<!-- Modal 模态框 end -->
+	<table class="table">
+		<tr>
+			<td><a class="btn btn-primary" href="<?php echo WebUrl('/Note/Index/NoteAdd')?>">添加记录</a></td>
+			<td><a class="btn btn-danger" href="<?php echo WebUrl('/Note/Index/RecycleBin')?>">回收站</a></td>
+			<td><a class="btn btn-info" href="#">分享</a></td>
+			<td><a class="btn btn-warning" href="<?php echo WebUrl('/Note/User/OutLogin')?>">退出登录</a></td>
+			<td>
+				<div class="col-xs-4">
+				    <input type="text" class="form-control" id='SearchSubstance' name='SearchSubstance' placeholder="输入关键字" value="<?php echo $SearchSubstance;?>">
+				</div>
+				<button class="btn btn-default" type="button" onclick="SearchAjax()">搜索</button>
+			</td>
+			
+			
+		</tr>
+	
+	</table>
+	<table class="table table-hover">
+	<tr>
+		<td class='active' style="text-align:center;">备注</td>
+		<td class='active' style="text-align:center;">录入时间</td>
+		<td class='active' style="text-align:center;">修改时间</td>
+		<td class='active' style="text-align:center;">操作</td>
+	</tr>
+
+		<?php foreach ($UserNoteInfo as $info) { ?>
+				<tr>
+					<td style="text-align:center;">
+						<a class="btn" name="<?php echo $info['id']?>" href="<?php echo WebUrl('/Note/Index/NoteInfo?nid=') . $info['id']?>"><?php  echo decrypt($info['remark'], 'jzz'); ?></a>&nbsp;&nbsp;&nbsp;
+						<a href="#<?php echo $info['id']?>" style="color: black"><span class="glyphicon glyphicon-search" aria-hidden="true" onclick="ModelConnects(<?php echo $info['id']?>)" data-toggle="modal" data-target=".bs-example-modal-lg"></span></a>
+					</td>&nbsp;
+					<td style="text-align:center;"><?php echo date('Y-m-d H:i:s', $info['ctime'])?></td>
+					<td style="text-align:center;"><?php echo date('Y-m-d H:i:s', $info['edittime'])?></td>
+					<td style="text-align:center;">&nbsp;&nbsp;<a class="btn" onclick="return AlertM('<?php echo WebUrl('/Note/Index/RecycleBinDo?nid=') . $info['id']?>&S=R')">删除</a>&nbsp;&nbsp;<a class="btn" href="<?php echo WebUrl('/Note/Index/Emport?nid=') . $info['id']?>">导出</a></td>
+
+				</tr>
+		<?php } ?>
+	</table>
+</body>
+</html>
+
+<script type="text/javascript">
+	//$('#myModal').modal(options);
+	var menu = new BootstrapMenu('#demo1Box', {
+		actions: [{
+			name: 'Action',
+			onClick: function() {
+				toastr.info("'Action' clicked!");
+			}
+		}, {
+			name: 'Another action',
+			onClick: function() {
+				toastr.info("'Another action' clicked!");
+			}
+		}, {
+			name: 'A third action',
+			onClick: function() {
+				toastr.info("'A third action' clicked!");
+			}
+		}]
+	});
+
+	function AlertM(url){
+    	$.confirm({
+	        title: '删除',
+	        content: '是否放入回收站？',
+		    confirmButton: '是 ?',
+	    	cancelButton: '否 ?',
+	    	confirm: function(){
+	            window.location.href=""+url+"";
+				return true;
+	        }
+	    });
+    }
+
+	function SearchAjax(){
+		SearchSubstance = $('#SearchSubstance').val();
+		window.location.href="<?php echo WebUrl('/Note/Index/index')?>?SearchSubstance="+SearchSubstance;
+	}
+
+	function ModelConnects(NoteId){
+		$.ajax({
+			type: "POST",
+			url: "<?php echo WebUrl('/Note/Index/NoteInfo')?>",
+			data: "nid="+NoteId+"&S=M",
+			success: function(msg){
+				str = '<div class="modal-content" style="padding-left:10px;">'+msg+'</div>';
+				$('#ModelConnect').html(str);
+			}
+		})
+	}
+
+</script>
